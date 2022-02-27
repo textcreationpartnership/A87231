@@ -1,0 +1,1789 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers quaking: or, the foundation of their deceit shaken, by scripture, reason, their own mouthes at several conferences. By all which will appear, that their quaking, ministery, doctrine, and lives, is a meer deceit, and themselves proved to be the great impostors of these latter times: / by Jeremiah Ives.</title>
+            <author>Ives, Jeremiah, fl. 1653-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 110 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87231</idno>
+            <idno type="STC">Wing I1103</idno>
+            <idno type="STC">Thomason E883_3</idno>
+            <idno type="STC">ESTC R207296</idno>
+            <idno type="EEBO-CITATION">99866354</idno>
+            <idno type="PROQUEST">99866354</idno>
+            <idno type="VID">118625</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118625)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 133:E883[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers quaking: or, the foundation of their deceit shaken, by scripture, reason, their own mouthes at several conferences. By all which will appear, that their quaking, ministery, doctrine, and lives, is a meer deceit, and themselves proved to be the great impostors of these latter times: / by Jeremiah Ives.</title>
+                  <author>Ives, Jeremiah, fl. 1653-1674.</author>
+               </titleStmt>
+               <extent>[8], 55, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J Cottrel, for R. Moon, at the Seven Stars in S. Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118625:1"/>
+            <pb facs="tcp:118625:1" rendition="simple:additions"/>
+            <p>THE QUAKERS <hi>Q<g ref="char:V">Ʋ</g>AKING:</hi> OR, The Foundation of their Deceit
+ſhaken, BY SCRIPTURE, REASON, Their own MOUTHES at ſeveral Conferences. By
+all which will appear, That their QUAKING, MINISTERY, DOCTRINE, and LIVES, is a
+meer Deceit, And themſelves proved to be the great Impoſtors of theſe
+Latter Times:</p>
+            <p> By <hi>JEREMIAH IVES.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Matth. 24. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,
+5.</hi>
+               </bibl> 
+               <p>And Jeſus anſwered, and ſaid unto them, Take heed that no
+man deceive you: For many ſhall come in my Name, ſaying, I am Chriſt, and
+ſhall deceive many.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Rom. 16.18.</hi>
+               </bibl> 
+               <p>For they that are ſuch, ſerve not our Lord Jeſus Chriſt,
+but their own belly, and by good words, and fair ſpeeches, deceive the hearts
+of the ſimple.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Prov. 14.15.</hi>
+               </bibl> 
+               <p>The ſimple believeth every word: but the wiſe man looketh well
+to his goings.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Job 6.25.</hi>
+               </bibl> 
+               <p>How forcible are right words? but what do your arguings
+reprove?</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Tim. 1.7.</hi>
+               </bibl> 
+               <p>That deſire to be Teachers of the Law, underſtanding neither
+what they ſay, nor whereof they affirm.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J Cottrel,</hi> for <hi>R.
+Moon,</hi> at the Seven Stars in S. <hi>Pauls</hi> Church-yard. 1656.</p>
+         </div>
+         <div type="prefatory_letter">
+            <pb facs="tcp:118625:2"/>
+            <pb facs="tcp:118625:2"/>
+            <head>To the Churches of the Lord Jeſus Chriſt, that are called
+to be faithful, and that are baptized into his Name, and meet together in his
+fear, to ſtand for that faith that was once delivered to the Saints.</head>
+            <opener>
+               <salute>BRETHREN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know none to whom theſe enſuing lines will be more welcome,
+then to you, be<g ref="char:EOLhyphen"/>cauſe you are the men about whom Satan hath laid his
+cloſeſt ſiege, and levied his greateſt force: I therefore thought it my
+du<g ref="char:EOLhyphen"/>ty to ſend to you ſome relief, and (if Poſſi<g ref="char:EOLhyphen"/>ble) to raiſe the
+ſiege that hath for a long time been laid againſt you, by the great and
+ſubtile Adverſaries to your Faith and Order, which the Lord help you to
+continue in, that ſo you may be <hi>terrible as an Army with banners:</hi>
+and that you may ſo be, it ſhall be my daily requeſt to the Lord on your
+behalf, that love and unity may increaſe among you, <pb facs="tcp:118625:3"/>that you may
+all minde one thing; that ſo the Adverſary may have no occaſion gi<g ref="char:EOLhyphen"/>ven
+him, to ſpoil you of your joy and re<g ref="char:EOLhyphen"/>joycing in the confidence that you have
+in Chriſt Jeſus: For when you ſhall divide and ſeparate one from
+another, and have bitter envyings among your ſelves, rendings and tearings of
+the Body of Chriſt, upon offen<g ref="char:EOLhyphen"/>ces given or taken by ſome particular
+per<g ref="char:EOLhyphen"/>ſon, or for ſome particular Opinion; doth not this (if I may uſe the
+phraſe) make the daughters of the Uncircumciſed rejoyce, and ſay, <hi>How
+are the Mighty fallen?</hi> even you that were once valiant for the Truth, will
+they not ſay, <hi>What? are you become like us?</hi> Therefore, for the Lords
+ſake, let the bond of love and holineſs be kept inviolable by you all, that
+ſo you may be preſerved from falling into the gulfs of Apoſtacy, that
+ma<g ref="char:EOLhyphen"/>ny in theſe latter times have fallen into. And that you may ſo be kept,
+let me intreat you to keep high and honorable thoughts of the Scriptures; let
+none of the words of our dear Lord Jeſus, ſlip out of your minde; have a
+care of ſucking in ſuch Principles that <pb facs="tcp:118625:3"/>will impair the Credit
+and Authority of Gods Words; as, That the Scriptures are not the Word of God;
+and, That the Light within you is of equal or better Authority; and, That it
+doth teach us how to Worſhip God without the Scriptures: And prize the
+Ordinances of God; and remember what a bleſſed thing it is, for
+Chriſtians to meet often together, and to think often upon Gods laws, and be
+frequent in the obſervance of them, in a time when men ſay, <hi>What profit
+is it that we have kept his Ordinances?</hi> know<g ref="char:EOLhyphen"/>ing, that <hi>your labour
+ſhall not be in vain in the Lord.</hi> And thoſe that God bath made your
+Elders and Overſeers, ſay unto them, That they take heed to their
+Miniſtery, left the Lord charge the Souls of them that ſhall be ſeduced
+upon their ſcore; and if God hath ſet ſuch over you, that do wake and
+watch for your ſouls, have them in double honour; have a care of ſlighting
+them that are your Watchmen, left the Lord remove them from you into corners,
+and you be left as a City forſaken, for the wilde Beaſts of the field, and
+Boars of the foreſt to prey upon: from which <pb facs="tcp:118625:4"/>the Lord deliver
+you. Oh therefore that you would every one in your places and cal<g ref="char:EOLhyphen"/>lings watch
+and pray, that you enter not into the temptations of theſe times,
+eſpecially theſe Quaking temptations, that like the ſnares of the
+Fowlers, are ſpread in all cor<g ref="char:EOLhyphen"/>ners of the Nation; and remember that you are
+for your lives, that ſo you may eſcape the ſnare of the Devil, into which
+many are led captive, and are taken at his will: and that you might be the
+better acquainted with his wyles, I have preſented you with a few of their
+ſnares, that you might know how to eſcape them, if they ſhall ſpread
+them before you: And I doubt not, but if you ſhall carefully obſerve, and
+ſeriouſly examine the Truth of what is here propoſed, you will be
+throughly furniſhed to withſtand theſe ſub<g ref="char:EOLhyphen"/>tile Adverſaries at every
+turn, and preſerve your ſelves from falling, unto his heavenly Kingdom:
+which ſhall be the Prayers of him, who is willing to bow his knee for you
+all, to the God and Father of our Lord Jeſus Chriſt.</p>
+            <closer>
+               <signed>Jeremiah Ives.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118625:4"/>
+            <head>To the <hi>Impartial</hi> READER, of what Opinion
+ſoever.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Shall deſire no more ſavour from thee, then to
+reade and judge, whether what follows be not concluſive, both from Scripture,
+Reaſon, and the mens own words again st whom I write, as will appear by the
+ſeveral Conferences that I have had with them; as alſo from their ſeveral
+Writings, to which I ſhall refer thee, if thou wilt take pains to ſearch
+in<g ref="char:EOLhyphen"/>to them: By which thou ſhalt ſee, that this deceitful gene<g ref="char:EOLhyphen"/>ration with
+whom I ſtrive, and whoſe deceit my pen hath been in travel to bring forth
+to the worlds view, are ſuch, whoſe mouthes are full of great ſwelling
+and lying words, ſaying, <hi>They are immediately ſent of God,</hi> &amp;c.
+And when they are put to prove it, can ſay no more then what others can
+ſay, whom themſelves cry down for Antichriſtian: Nay, there is many whom
+they daily cry down, that can ſay more for their authority to Preach then
+themſelves, though they will not boaſt of their immediate ſending; and
+their mouthes are not onely ſtuft with ſuch big-ſwelling words, but their
+books alſo, eſpecially in the Title-pages of them; as one cal<g ref="char:EOLhyphen"/>ling his
+Book, <hi>Love to the Loft;</hi> another, <hi>A Salutation to the ſeed of
+God;</hi> another, <hi>A diſcovery of the wiſ<g ref="char:EOLhyphen"/>dome from beneath;</hi>
+another, <hi>The Power and Glory of God ſhining out of the North;</hi>
+another, <hi>The Royal Law and Covenant of God;</hi> another, <hi>News out of
+the North, written from the mouth of God;</hi> another, <hi>The Vials of the
+Wrath of God pured upon the Seat of the Man of Sin;</hi> another, <hi>A Warning
+from the Lord to the Teacher and People;</hi> another, <hi>A true <pb facs="tcp:118625:5"/>propheſie of the mighty Day of the Lord;</hi> another, <hi>A Trumpet
+from the Lord founded out of Sion;</hi> ano<g ref="char:EOLhyphen"/>ther, <hi>A VVhirlwind of the Lord,
+gone forth as a Fly<g ref="char:EOLhyphen"/>ing fiery Roll;</hi> another, <hi>The Shield of Truth,</hi>
+&amp;c. By theſe great buſhes, they call the ſimple in to drink of their
+adulterated Wine, which is but as the Wine of <hi>Sodom,</hi> and as the Grapes
+of <hi>Gomorrha.</hi> Theſe are the Out-cries by which they call the ſimple
+to drink of the wine of their Spiritual Fornications: For I challenge any of
+them all to make it appear, that any one of theſe Titles mere given theſe
+Pamphlets, by him whom they intitle to them: And there<g ref="char:EOLhyphen"/>fore, good Reader,
+conſider theſe following lines; and what ſhall be found true, imbrace,
+though it be not bum<g ref="char:EOLhyphen"/>baſted with the feigned words of them who would make
+mer<g ref="char:EOLhyphen"/>chandize of your Souls; and ſlight it not in any thing, wherein it
+ſpeaks Scripture or right Reaſon, though with ſome neither are of weight:
+which is all that is deſired from thy Friend,</p>
+            <closer>
+               <signed>JER: IVES.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118625:5"/>
+            <head>
+               <hi>The QVAKERS Quaking:</hi> OR, The Foundation of their
+Deceipt ſhaken, both in their Quakings, Doctrines, Mini<g ref="char:EOLhyphen"/>ſterie, and
+Lives.</head>
+            <p>
+               <hi>IF ever the My stery of Iniquity, or Iniquity in a myſte<g ref="char:EOLhyphen"/>ry,
+did work in the hearts and mindes of men: or if ever the devil did manage a
+Deſigne under ground, ſurely be doth it now by the men called QUAKERS, who,
+like ſo many Apes, do imitate many of the Faithful in ſome circumſtances,
+that they may the better deceive in matters that are most ſub<g ref="char:EOLhyphen"/>ſtantial. And
+this (through the help of God) I ſhall make appear, by ſhewing, that their
+Quaking, and their Doctrine, Miniſtery, and Lives, is a meer deceit. And
+firſt, I ſhall ſpeaking ſomewhat touching their Quaking: and therein, I
+ſhall first ſpeak ſomething touching their Name; and ſe<g ref="char:EOLhyphen"/>condly,
+ſomething touching their Practice, viz. Quaking; and the Scriptures they urge
+in favour to ſuch a practice.</hi>
+            </p>
+            <pb n="2" facs="tcp:118625:6"/>
+            <p>
+               <seg rend="decorInit">I</seg> Shall in the firſt place ſpeak to that Name or Title by
+which they are known to the world, <hi>viz.</hi> QUAKERS. In this they would
+make men believe they are nick-named; as appears in a book of <hi>James
+Nayler</hi>'s, called, <hi>The diſco<g ref="char:EOLhyphen"/>very of the first wiſdom from
+beneath:</hi> where in the Title<g ref="char:EOLhyphen"/>page he ſubſcribes himſelf, <hi>One whom
+the world ſcornſully nick-names, and calls Quaker.</hi> Again, in another
+book of his, called, <hi>The power and glory of the Lord ſhining out of the
+North;</hi> in the title-page he ſubſcribes himſelf <hi>One whom
+Iſhmael's brood calls a Quaker.</hi> I could bring many inſtances of this
+kind, to ſhew how they would make men believe they are greatly wronged when
+they are diſtinguiſhed from other men by this term <hi>Quakers.</hi> Now
+ſee their deceit; they ſay <hi>Iſhmael's</hi> Brood and the world calls
+them ſo, and yet they take paines to prove themſelves ſo: ſee page 16
+and 17 of the laſt fore-mentioned Book: he ſaith, <hi>But ſearch the
+Scriptures, and holy men of God do witneſſ quaking and trembling.</hi> See
+likewiſe <hi>Parnel</hi>'s <hi>Shield of Truth,</hi> p. 1. and a Book of
+theirs, called <hi>Sauls Errand to Damaſew,</hi> p. 32. It being asked by a
+Juſtice, How it came to paſs <hi>that people quake and tremble; James
+Nayler</hi> anſwered, <hi>that the Scriptures witneſs the ſame condition
+in the Saints formerly,</hi> &amp;c. Now pray obſerve, the Chriſtians of
+old were never offended at that which the Scriptures did witneſs them to be:
+as for inſtance, the Scripture calls them <hi>believers,</hi> becauſe they
+believed; <hi>diſciples,</hi> becauſe they had learned; <hi>Saints,</hi>
+becauſe they were holy; and they that prayed, were called <hi>a praying
+peo<g ref="char:EOLhyphen"/>ple.</hi> 
+               <pb n="3" facs="tcp:118625:6"/>Now where do the Saints of old anywhere call
+theſe Nick-names, when they were call'd according to what they either
+believed or practiſed? Is it any more a Nick-name to call a man a
+<hi>Quaker</hi> that quakes by the power of God, (if that be true that they
+ſay) then to call a righteous man a righteous man, that is made righteous by
+the power of God? or is it any more a Nick-name to call a man a
+<hi>Quaker,</hi> that wit<g ref="char:EOLhyphen"/>neſſes to quaking, and owns it, then it is to
+call a man a Chriſtian, that witneſſes to Chriſt, and owns him? I
+believe a man may deridingly be call'd a Chriſtian, as doubtleſs ſome of
+theſe are call'd <hi>Quakers;</hi> and ſo many are deridingly call'd Saints
+and holy men; yet theſe are no Nick-names: if they are ſo, the people in
+captivity were deridingly bid to ſing one of Sion's ſongs, yet theſe were
+not Nick-names to thoſe ſongs. By this you may ſee that they are Lyers,
+in ſaying that they are Nick-named Quakers, when themſelves ſay they
+witneſs quaking: and though themſelves witneſs quaking, yet they ſay
+that they are <hi>Ishmael</hi>'s brood that calls them ſo. But I pray tell
+me, if a man be fre<g ref="char:EOLhyphen"/>quently found in railing, whether this be a Nick-name to
+call him a Railer. In like maner, if theſe people (as themſelves confeſs)
+do frequently quake, what Nick-name is it to call them Quakers?</p>
+            <p>But now to their Scriptures alleadged for quaking, ſhaking and
+trembling: it is true, that ſome good men do ſay thus of themſelves; as
+<hi>Heb.</hi> 12.21. <hi>Ezek.</hi> 12.18. <hi>Jer.</hi> 33.9. <hi>Acts</hi>
+9.6. <hi>Pſal.</hi> 119.6. and many other places. To all which I anſwer,
+firſt, This doth not prove that all were good that did quake and tremble: for
+the de<g ref="char:EOLhyphen"/>vils were quakers and tremblers, <hi>James</hi> 2.19. Again, good men
+made uſe of Scriptures, to exhort and in<g ref="char:EOLhyphen"/>ſtruct; <pb n="4" facs="tcp:118625:7"/>yet
+ſome do make uſe of them to deceive and tempt, as the devil did Chriſt,
+<hi>Matth.</hi> 4.6. In like manner may Deceivers fall into quaking fits, that
+ſo they may ho<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me reſemblance with the
+ſervants of God, (that did tremble for fear of God) though the fear of God be
+departed from them: for the devil, ma<g ref="char:EOLhyphen"/>ny times, and his miniſters, that they
+may the better effect their deceits, do transform themſelves into the
+likeneſs of the miniſters and ſervants of Chriſt.</p>
+            <p n="2">2. None of the Saints of old did ever foam at mouth in this
+their trembling; but ſome of you do, as many are able to witneſs, and as
+your ſelves cannot deny. When it was objected againſt you in the
+<hi>Weſt<g ref="char:EOLhyphen"/>moreland</hi>-Petition, <hi>that your practces did exceedingly
+ſavor of Sorcery, becauſe of the ſwellings, quakings, and roarings, and
+foamings that were among you at your meetings, but eſpe<g ref="char:EOLhyphen"/>cially of young
+children;</hi> you deny no part of the Charge in your Anſwer, but Blaſphemy
+and Sorcery: by which it plainly appears, that ſwellings and foamings could
+not be denyed, elſe you would as well have replyed to that, as Blaſphemy
+and Sorcery. For this, ſee their Book in anſwer to the <hi>West
+morland</hi>-Petition, p. 35. where they make no reply to foaming and
+ſwelling, though it is charged upon them to be in yong children as well as
+old folks. Whereupon I demand, Whether any of the Saints of old ever foamed at
+mouth when they trembled? 2. Whether any young children did ever foam at mouth,
+quake, ſwell and tremble, in the Saints meetings? 3. Whether ſuch kinde of
+trem<g ref="char:EOLhyphen"/>bling that is accompanied with foamings, do not ra<g ref="char:EOLhyphen"/>ther argue a man to be
+poſſeſs'd with the devil, then with the Spirit of God? according to that
+of <hi>Luke</hi> 9.39.</p>
+            <pb n="5" facs="tcp:118625:7"/>
+            <p>Laſtly, Whether this be a good Argument: <hi>viz.</hi> Some of
+the Saints did quake, and that by the impulſe of the Spirit of God: Therefore
+every one that quakes and trembles is a Saint of God, and doth it by the
+impulſe of the Spirit of God.</p>
+            <p>The next thing I ſhall ſpeak to, is their Doctrines: And
+though I confeſs they preach ſomewhat that is true, yet in this they are
+but the greater Deceivers. For what Heretick is there, but preaches ſome
+truth? and what counterfeit ſilver will paſs in pay, if there be not ſome
+appearance of real ſilver? So theſe men, to put off their bad ware, which
+other wiſe would not vent, do uſher it in with many truths. But, that the
+Reader may ſee that <hi>All is not gold that glisters;</hi> take notice, in
+the firſt place, that theſe men will allow nothing to be call'd God's Word,
+but Chriſt. This is their firſt Errour in Doctrine: which I thus
+prove:<note place="margin">1 <hi>Error.</hi>
+               </note>
+            </p>
+            <p>Firſt, becauſe God hath but one onely-begotten Son Jeſus
+Chriſt; but he hath many Words. That he hath but one Son Jeſus Chriſt, I
+prove, from <hi>Joh.</hi> 3.16. 1 <hi>Cor.</hi> 8.6. <hi>Eph.</hi> 4.5. That he
+hath more words then one, I prove from <hi>Deut.</hi> 8.3. <hi>Man liveth not
+by bread alone, but by EVERY word that proceedeth out of the mouth of God.</hi>
+Prov. 30.5. <hi>EVERY word of God is pure.</hi> Jer. 23.36. the complaint is,
+that the falſe Prophets had perverted the WORDS of the living God. So that
+from this Scripture this Argument may be drawn againſt this Error:
+<hi>viz.</hi> If God have plurality of words, then ſomewhat elſe may be
+called the Word of God beſide his onely Son Jeſus Chriſt. But God hath
+plurality of words: Therefore, ſomewhat elſe may be call'd Gods Word,
+beſides his onely begotten Son <pb n="6" facs="tcp:118625:8"/>Jeſus Chriſt. And the
+fallacie of the Argument for the contrary, is thus detected: Jeſus Chriſt
+is called the Word: <hi>Ergo,</hi> Nothing elſe muſt be call'd the Word but
+Jeſus Chriſt. May not a man as well ſay, that Jeſus Chriſt is call'd
+God's Son; <hi>Ergo,</hi> No one elſe may be call'd Gods ſon but Jeſus
+Chriſt? When we read that men are the ſons of God by ſaith; and
+(<hi>Joh.</hi> 1.) <hi>As many as believed, to them be gave porter to be<g ref="char:EOLhyphen"/>come
+the ſons of God;</hi> though I confeſs they are not ſons in the ſame
+ſenſe that Chriſt is: ſo likewiſe nothing is call'd the Word of God
+in the ſame ſenſe the Scri<g ref="char:EOLhyphen"/>ptures call Chriſt ſo, but himſelf.
+Again, the Scri<g ref="char:EOLhyphen"/>ptures call Chriſt a <hi>vine,</hi> a <hi>door,</hi> a
+<hi>ſhepherd:</hi> but would it not be madneſs to ſay, Where-ever we read
+of a vine, a door, or a ſhepherd, it muſt be underſtood of Chriſt?</p>
+            <p>Their next Errour that I ſhall name,<note place="margin">2
+<hi>Error.</hi>
+               </note> (and which is a conſequence of the former) is this,
+That they ſay the Scriptures may not be call'd the word of God: and in many
+of their books they blame the Miniſtery of the Nation, and others, for
+ſaying the Scriptures are the word of God; when Chriſt calls the written
+Law of <hi>Moſes</hi> the word of God, which he ſaid the Phariſees had
+made of none effect by their traditions, <hi>Mark</hi> 7.13. But ſee the
+horrible deceit of theſe men! The Scriptures (they ſay) muſt be call'd a
+declaration of the minde of God, but at no hand they muſt be call'd the word
+of God: ſee their book call'd <hi>A cloud of witneſſes,</hi> in the
+Title-page, and alſo in pag. 3. of the ſame Book, toward the later end of
+it, and the beginning of pag. 4. you have theſe words: <hi>But the blinde
+guides, the Prieſts of England, that Preach for Tythes, hire, giſts and
+rewards, they do teach the people, and <pb n="7" facs="tcp:118625:8"/>ſay, Hearken to the
+Word of the Lord, as it is in a chapter and a verſe:</hi> and many other
+paſſages, which I forbear to cite, becauſe it is a thing ſo generally
+preached and received by them, <hi>viz.</hi> That the Scriptures are not the
+word of God, but a declaration of the minde and will of God. See now their
+deceit! they would make the world believe, that it detracts from the ho<g ref="char:EOLhyphen"/>nour of
+Chriſt to call the Scriptures the word of the Lord, and the word of God: when
+in truth, the deſigne is to raiſe up the honour of their own Pamphlets, by
+the ruines of the Scriptures reputation in the hearts and mindes of men. And
+therefore do but behold their impudence: The holy Scripture (ſay they) muſt
+not be call'd God's word; no, no: but ſee if they do not give the ſame
+titles, and as great, to their own bumbaſted, contradictious, lying
+Pamph<g ref="char:EOLhyphen"/>lets. And for the proof of this, let me give thee a re<g ref="char:EOLhyphen"/>cital of ſome of
+them, among many.</p>
+            <p>They have one book, called <hi>Love to the lost:</hi> which is a
+Title proper to none but God and Chriſt; yet this is given to one of their
+books.</p>
+            <p>Another is called, <hi>A diſcovery of the wiſdom from
+be<g ref="char:EOLhyphen"/>neath:</hi> which none but the word of God can do, by their own
+confeſſion many a time.</p>
+            <p>Another book is called, <hi>The power and glory of God ſhining
+out of the North.</hi> Is not this Title as great, as if they had call'd it the
+word of God? Read, and judge you, whoſe light is not darkneſs.</p>
+            <p>Another is call'd, <hi>The Royal law and Covenant of God;</hi>
+which is as great a Title as the word of God.</p>
+            <p>Another is call'd, <hi>News out of the North, written from the
+mouth of God.</hi>
+            </p>
+            <p>Another is call'd, <hi>The Vials of the wrath of God upon the
+ſeat of the man of ſin.</hi>
+            </p>
+            <pb n="8" facs="tcp:118625:9"/>
+            <p>Another is call'd, <hi>A warning from the Lord to Teachers and
+people.</hi>
+            </p>
+            <p>Another is call'd, <hi>A true prophecie of the mighty day of the
+Lord.</hi> Now if by <hi>the mighty day of the Lord,</hi> they mean that there
+ſhall be ſuch a day; which they can hardly do, becauſe ſome of them
+have ſaid, The day of Judgment is paſt already: but if that ſhould be
+their meaning, it could be no Prophecie: for what prophe<g ref="char:EOLhyphen"/>ſying is it for men
+to foretel ſuch a thing ſhall be, if others have ſaid it before them? for
+do not many, by the writing of the Scriptures, believe there ſhall be ſuch
+a day? yet theſe cannot be ſaid to propheſie of it. But if by
+propheſying of the mighty day of the Lord, they mean to foretel the very day,
+then they preſume to know more then Chriſt, or the Angels, or any man,
+according to that of <hi>Mark</hi> 13.22. But to proceed.</p>
+            <p>They have another book, that is called, <hi>A Trumpet from the
+Lord ſounded out of Sion.</hi>
+            </p>
+            <p>Another is call'd, <hi>A whirlwinde of the Lord, given forth as a
+flying fiery roll.</hi>
+            </p>
+            <p>I would from all this, ask but one queſtion, Whe<g ref="char:EOLhyphen"/>ther theſe
+Titles which they give theſe books, are not equipollent to the Title we give
+the Scriptures, <hi>viz. The Word of God?</hi> and yet theſe men blame us for
+this, and give as great to their own Pamphlets. But what ſhall we ſay? they
+ſtop not here, but at laſt call their own writings <hi>The Word of the
+Lord,</hi> and <hi>A Word from the Lord;</hi> as you may ſee in a book of
+theirs, called, <hi>A prophecie of the mighty day of the Lord,</hi> p. 13. and
+the like in a book called <hi>The vials of the wrath of God,</hi> p. 57. p. 9.
+p. 10. and in a book called <hi>News out of the North,</hi> p. 10. and p. 24.
+and in p. 1. of a book called <hi>The pure language of the Spirit;</hi> and
+many other places, where <pb n="9" facs="tcp:118625:9"/>they do readily in words at length,
+give thoſe Titles to their own books, they will not give to the Scriptures.
+Doth not this plainly ſhew, that the deſigne of this generation is, to do
+by the Scriptures, as <hi>Judas</hi> did by Chriſt, <hi>viz.</hi> betray them
+with a kiſs, even by making men believe they do own the Scriptures, when
+indeed it is, that they may have the fairer oportunity to cruci<g ref="char:EOLhyphen"/>fie them in the
+croud of their pernicious Pamphlets?</p>
+            <p>The third Errour in their Doctrine, is,<note place="margin">3
+<hi>Error.</hi>
+               </note> That they (ſay they) are immediately ſent of God:
+ſee this in <hi>James Parnel</hi>'s book, called <hi>A ſhield of Truth,
+page</hi> 12. He ſaith, <hi>They can witneſs an immediate call from God, to
+go from their Countries and Callings,</hi> &amp;c. <hi>to go to preach the
+Goſpel.</hi> I could ſhew this out of many of their books; but I ſpare
+that labour, becauſe it is day<g ref="char:EOLhyphen"/>ly owned by them, and they frequently
+aſſert it in pub<g ref="char:EOLhyphen"/>like conferences. The ſubſtance of two of them I
+ſhall give you a brief account of: one was in laſt <hi>May</hi> 1656. in
+Beech-lane <hi>London;</hi> at which time, I did pro<g ref="char:EOLhyphen"/>poſe Queſtion to
+<hi>James Nayler,</hi> viz. Whether ever any was immediately ſent of God to
+preach the Goſpel, but either God did bear witneſs to them from heaven, or
+elſe he did enable them to work Miracles, by which they might evince the
+truth of their authori<g ref="char:EOLhyphen"/>ty upon earth? To this <hi>James Nayler</hi> replyed,
+That <hi>God might ſend men, for ought I knew, to whom be bare no ſuch
+witnesſ.</hi> To this I replyed, That God did never immediately ſend any,
+but he did either from heaven demonſtrate the truth of their authority, or
+elſe gave them power to work miracles upon the earth. <hi>James Nayler</hi>
+told me <hi>I could not prove what I ſaid.</hi> To which I replyed, That the
+ſaying proved it ſelf, unleſs he could give an inſtance of ſome ſo
+ſent, to whom God <pb n="10" facs="tcp:118625:10"/>bare no ſuch witneſs. Hereupon
+<hi>James Nayler</hi> tells me, That <hi>Matthias was ſo ſent, and yet did
+no Miracle.</hi> To this I replied, That the 2d of the <hi>Acts</hi> tells us,
+That <hi>the holy Ghoſt fell upon them, and they all ſpake with Tongues, to
+the amazement of the beholders</hi>
+               <note n="*">And as for
+<hi>Matthias,</hi> he was not ſent immediately, for he was choſe by lot,
+<hi>Acts</hi> 1. latter end: So that he hath told two lyes; firſt, that
+<hi>Matthias</hi> was immediately ſent; ſecondly, that he could not work
+Mira<g ref="char:EOLhyphen"/>cles: both which are falſe, as the firſt and ſecond of the
+<hi>Acts</hi> declare.</note>. To which <hi>James</hi> replied, <hi>So can I
+ſpeak with Tongues that thou canſt not under<g ref="char:EOLhyphen"/>ſtand.</hi> I told him, I
+thought ſo he might, in their Canting dialect; but could he ſpeak varieties
+of Languages, that was natural to ſeveral Countreys. To which he replied,
+That <hi>he was not bound to anſwer to my demand, being an un<g ref="char:EOLhyphen"/>believer:
+for</hi> (ſaith he) <hi>Chriſt told the Jews, That a foo<g ref="char:EOLhyphen"/>liſh and
+adulterous generation did ſeek a Sign.</hi> To which I did reply, That if he
+could ſhew as good a Sign for his immediate Call, as Chriſt did ſhew that
+genera<g ref="char:EOLhyphen"/>tion, to prove he was the <hi>Me ſsiah,</hi> we would believe all he
+told us: for Chriſt ſaid, That <hi>as Jonas was three dayes and three
+nights in the Whales belly; ſo ſhould he be three dayes and three nights in
+the heart of the earth:</hi> This Sign, he ſaid, ſhould be given to them. I
+challenge all the Quakers in <hi>England,</hi> either to ſhew us ſuch a
+Sign of their immediate ſending, or elſe never uſe that Text to reprehend
+them that ask a Sign: For, though Chriſt did reprehend them, yet he ſhewed
+a Sign unto them. <hi>Nayler</hi> did further reply, and ſay, That <hi>though
+Chriſt did mighty works, it was not at or upon the time that they demanded
+it.</hi> To which I replied, That if he would but ſay he had done it at any
+time, we would believe him. Hereupon he tells us of his <hi>Call from the
+Plough.</hi> To which I replied, and told him again, This doth no more prove
+that which was de<g ref="char:EOLhyphen"/>manded <pb n="11" facs="tcp:118625:10"/>then (as the ſtory goes) the Man
+that left his fiſhing to be a Prieſt, and afterwards came to be Pope, was
+immediately ſent of God. To which he replies, and tells me, That
+<hi>when</hi> Paul <hi>was brought before the Civil Magiſtrate, he gave no
+other account, but onely told him how God call'd him.</hi> To which I
+anſwered, That if <hi>James Nayler</hi> could give any hiſtory of as good
+autho<g ref="char:EOLhyphen"/>rity (as the Hiſtory of the <hi>Acts</hi> of the Apoſtles is) for the
+proof of his Call, we would believe him. He hereupon calls me Lyer:
+<hi>For</hi> (ſaith he) <hi>didst not thou tell me, thou would st believe, if
+I would but ſay it?</hi> To which I anſwered, That I did not ſay I would
+believe he was immediately ſent of God, if he did but ſay it, for then I
+ſhould give away the cauſe; but if he ſaid, that he had at any time done
+a Miracle, we would be<g ref="char:EOLhyphen"/>lieve him. Hereupon he told us, That <hi>he would prove
+his extraordinary Call, both by himſelf and other Witneſſes:</hi> And to
+make this good, he gave us a Narrative how be was before the Magiſtrates of
+<hi>Appleby,</hi> and told them how God call'd him in the field at Plough,
+<hi>&amp;c.</hi> To which I did reply, He was not before me to give an account
+to me as to a Magiſtrate: And ſecondly, I told him, That this was a meer
+deceit; for we expect<g ref="char:EOLhyphen"/>ed he ſhould prove the truth of his Call, and he goes
+to prove, That he told the Magiſtrates of <hi>Appleby</hi> he was thus
+call'd: And I told him, That I did not want proof that he did tell them ſo,
+but that that which he told them was true, which was the main thing in
+que<g ref="char:EOLhyphen"/>ſtion. Hereupon, ſeveral of his Proſelytes ſtands up to witneſs,
+how he had turned them from darkneſs to light. I told them, that was a
+begging of the Que<g ref="char:EOLhyphen"/>ſtion: for the great queſtion is, Whether that be not
+Darkneſs they are turned to, and that the Light they <pb n="12" facs="tcp:118625:11"/>are
+turned from: I therefore did tell them all, that it was horrible preſumption
+for ſuch as they, to proclaim both in City and Countrey, that they were
+ſent of God, when indeed the Pope can ſay as much for his Infallible Chair,
+the <hi>Turk</hi> for his <hi>Alcaron,</hi> and the <hi>Jew</hi> for his
+<hi>Talmud,</hi> and a great deal more. Hereupon he deſired me to diſpute
+ſome other Points of Do<g ref="char:EOLhyphen"/>ctrine, <hi>viz.</hi> Whether Faith were the gift of
+God, and the like: To which I anſwered, That if he could prove that he was
+immediately ſent of God, we would believe all he ſaid; and if he did but
+that, it would ſave us a labour to diſpute other Points: for if he did
+prove, That God ſent him to check and controll all the Religions of the
+World, we would willingly be con<g ref="char:EOLhyphen"/>trolled by him: which we did once and again
+call for proof of, but could not have it. I therefore bade him either renounce
+this pretended Call, or elſe prove it, before I would diſpute any other
+Point of Doctrine with him. Hereupon he told us, he was immediately ſent of
+God, becauſe he could propheſie. I asked him, of what? He told me, Of our
+breaking to pie<g ref="char:EOLhyphen"/>ces, and dividing among our ſelves. I told him, That
+breakings and dividings had been, and it was like might be among the Churches;
+but unleſs he could preciſely tell us when ſuch diſaſters ſhould
+befal us, he was no more a Prophet then (as the ſtory goes) the Fool, who
+having ſeen many a rainy day, did uſe to cry in fair weather, becauſe it
+would rain, though he knew not when. This was the ſum of the firſt
+Con<g ref="char:EOLhyphen"/>ference. Some dayes after, I was at the <hi>Bull</hi> and <hi>Mouth</hi> at
+<hi>Alderſgate,</hi> where at that time they had a Meeting, at which Meeting
+the former Queſtion was revived, <hi>viz.</hi> Whether <hi>James Nayler</hi>
+was able to prove he was <pb n="13" facs="tcp:118625:11"/>immediately ſent of God? for I
+told the people, That the Light within me, taught me not to quit my Reli<g ref="char:EOLhyphen"/>gion,
+to imbrace another that was able to ſhew no better, not ſcarce ſo good
+proof for its Authority, as either the <hi>Jew</hi> could for his
+<hi>Talmud,</hi> the <hi>Turk</hi> for his <hi>Alcoran,</hi> or the Pope for
+his <hi>Infallible Chair.</hi> To this <hi>James Nayler</hi> reply'd, that
+<hi>I ſaid true, that if they had no better proof for their authority, then
+thoſe they cried down, they were not to be believed: But</hi> (ſaith he)
+<hi>I will ſhew better proof:</hi> and the firſt was, That <hi>they were of
+God, becauſe they taught, that the Faith by which a man was ſa<g ref="char:EOLhyphen"/>ved, was the
+gift of God; which</hi> (ſaith he) <hi>thou denieſt.</hi> I hereupon
+replied, That to fall into that queſtion, How Faith might be Gods gift, and
+how it might be acquired, would loſe the firſt queſtion: and therefore I
+told him, That if Faith (in his ſenſe) were the gift of God, yet it did not
+follow, that they that ſo prea<g ref="char:EOLhyphen"/>ched were immediately ſent of God: My
+Reaſon was, Becauſe then all the Miniſters of the Nation, or at leaſt
+the moſt part of them, are immediately ſent of God: for they ſay, both in
+oppoſition to the Pelagi<g ref="char:EOLhyphen"/>ans as well as Papiſts, That Faith is the gift of
+God: So that if his words were put into a Syllogiſm, they would run thus,
+<hi>viz.</hi> Every one that preaches, Faith is the gift of God, is immediately
+ſent of God: But <hi>James Nayler</hi> preacheth ſo; <hi>Ergo.</hi> But may
+not a a man as well conclude from the ſame premiſes, Eve<g ref="char:EOLhyphen"/>ry man that
+ſaith, Faith is the gift of God, is imme<g ref="char:EOLhyphen"/>diately ſent of God: But the
+Miniſtery of the Na<g ref="char:EOLhyphen"/>tion and others, whom thou crieſt down for
+Antichri<g ref="char:EOLhyphen"/>ſtian, do preach ſo; <hi>Ergo,</hi> they are immediately ſent of
+God? If this be a true and undeniable Argument, the thou art a Lyer in Folio,
+to cry down theſe and <pb n="14" facs="tcp:118625:12"/>others for Antichriſtian: but if
+it be not true, thou haſt not proved the queſtion: for if ſome one may be
+Antichriſtian that preaches thus, thou art as like to be he as any. His next
+Argument was this, <hi>viz. They</hi> (meaning the Miniſters of the Nation
+and others) <hi>did but SAY ſo.</hi> To which I replied, He did no more. He
+told us then, that he could prove it further by their fruits: I asked, what
+were they? He told me in the firſt place, <hi>Their leaving their Countreys,
+to go up and down to preach the Goſpel.</hi> To which I replied, That this
+was to a greater degree found among the Jeſuites, who did travel to
+<hi>Rome</hi> for Orders, and after come and preach here in <hi>England,</hi>
+though there was a ſtanding Law that made it Treaſon. I queſtion much, if
+ſuch a Law were againſt Quakers, whether they would ven<g ref="char:EOLhyphen"/>ture ſo much for
+their Religion as the Papiſts do; and if they did, they could not do more
+then loſe their lives, which the Jeſuites frequently do. Now I de<g ref="char:EOLhyphen"/>mand, If
+this be a good Argument, <hi>viz.</hi> They that leave their Callings and
+Countreys to preach, are immediately ſent of God to preach: Whether the
+ſame premiſes doth not every whit as well prove (if not much better) That
+the Jeſuites are immediately ſent of God? For what though Chriſts
+Apoſtles left their Countreys and Callings, doth this prove, that every one
+that doth ſo is Chriſts Apoſtle? No: the contrary to this is ſeen in
+<hi>Matth.</hi> 23.15. that <hi>the Pha<g ref="char:EOLhyphen"/>riſees did compaſs ſea and land
+to make one proſelyte; and when be is made, be is more the childe of the
+Devil then themſelves:</hi> The like proof you bring; for they could not
+compaſs Sea and Land to make a Proſelyte, with<g ref="char:EOLhyphen"/>out leaving their countreys:
+and if this proves the Quakers are ſent of God immediately, it as well 
+<pb n="15" facs="tcp:118625:12"/>proves the Phariſees were ſo ſent. Again, we reade in
+the <hi>Acts,</hi> of one that led into the Wilderneſs four thouſand men:
+This man alſo left his countrey. By all this you may ſee, that that which
+theſe men talk moſt of, they can ſay leaſt to, <hi>viz.</hi> That they
+are im<g ref="char:EOLhyphen"/>mediately ſent of God. Again, another Argument, by which <hi>James
+Nayler</hi> would prove his immediate ſending, was grounded upon their
+<hi>denying themſelves in point of Apparel.</hi> To this I did anſwer,
+Firſt, that many Orders of Fryars did deny themſelves in mat<g ref="char:EOLhyphen"/>ters of
+Apparel, more then they: who (ſome of them) will not wear their clothes of
+any other colour, then wooll that comes off the ſheep is of, and ſave the
+char<g ref="char:EOLhyphen"/>ges of dying it; others of them wear hair-ſhirts, whereas you wear fine
+linen comparatively; nay, are they not generally known to be more
+ſelf-denying, both as to eating, drinking, and apparel, marrying, and other
+worldly delights, then any of your Tea<g ref="char:EOLhyphen"/>chers? how then for ſhame can you urge
+this as an Argument to prove your immediate call, when the ſame is found
+among them whom you call Antichri<g ref="char:EOLhyphen"/>ſtian? but theſe men will play at ſmall
+game before they will give out<note n="*">But if this be a good
+ar<g ref="char:EOLhyphen"/>gument, then every one of them are immediately ſent of God to preach, for
+they all are ſelf-deniers in theſe things.</note> Another Argu<g ref="char:EOLhyphen"/>ment was
+taken from the number of <hi>Proſelytes they make, which,</hi> ſay they,
+<hi>they have turned from darkneſs to light:</hi> But, as I ſaid before,
+how do they prove this? for we doubt not, but the Phariſees would have ſaid
+as much of their Proſelytes, which were made more the children of the Devil,
+then they were before. But further, and as I then told him, ſome may be
+ſent of God, that may not turn people, as <hi>Ezek.</hi> 33. and
+<hi>Iſa.</hi> 53.1. The Prophet ſaith, <hi>Who bath believed our
+report?</hi> 
+               <pb n="16" facs="tcp:118625:13"/>Again I told him, That as many might preach
+that God ſent, who might poſſibly not be received: ſo mul<g ref="char:EOLhyphen"/>titudes might
+receive a man that God never ſent<note n="*" place="margin">See <hi>Mat.</hi>
+24.5. MA<g ref="char:EOLhyphen"/>NY ſhall come in my Name, ſaying, I am Chriſt, and ſhall
+deceive. MANY.</note>; and that is rather a ſign that God never ſent you,
+then that he did ſend you: for <hi>Chriſt</hi> ſaith, That <hi>he came in
+his Fathers Name, but they received him not;</hi> but he tells them, <hi>If one
+ſhould come in his own Name, him that would receive.</hi> And the Apoſtles
+themſelve did ſhake the duſt off their feet againſt ſome places that
+received them not: But <hi>James Nayler</hi> ſaith, That <hi>he never came to
+a place, but be was received, and converted ſome in it.</hi> But our Lord
+<hi>Chriſt,</hi> though he did mighty work in <hi>Corazin</hi> and
+<hi>Bethſaida</hi> (he ſaith) <hi>they repented not:</hi> Which ve<g ref="char:EOLhyphen"/>ry
+Argument of yours is ſo farre from proving you are ſent of God immediately,
+that it rather proves the contrary: for, who hath made more Proſelytes, then
+the Roman Prieſts and Monks have? as for inſtance, <hi>Auſtine</hi> the
+Monk, who was ſent to the <hi>Saxons</hi> by the Biſhop of <hi>Rome,</hi>
+converted 10000 in a few dayes. See <hi>Speeds Chronicle,</hi> pag. 291, Sect.
+8. And who is there that is acquainted with the proceedings of the
+<hi>Spa<g ref="char:EOLhyphen"/>niards</hi> in the <hi>Weſt-Indies,</hi> but can tell, that
+thouſands are daily reduced from Heatheniſm, to ſober and up<g ref="char:EOLhyphen"/>right lives
+by the <hi>Roman</hi> Miniſtery? and yet this draw<g ref="char:EOLhyphen"/>ing of multitudes, is an
+Argument, That Quakers are ſent of <hi>God;</hi> but muſt not be urged by
+others, though they are able to ſay more at this turn, then all the Quakers
+in <hi>England.</hi> By this you may ſee, that the Quakers are ſhaking, and
+would gladly make every Straw a Staff to lean upon.</p>
+            <p>But laſtly, if it be as they ſay, That very man hath a Light
+within him, that would turn him, if he do follow it, to what purpoſe do they
+preach one to <pb n="17" facs="tcp:118625:13"/>another: So that they have no cauſe to
+impute the converting of men to their Miniſtery, for they might convert
+without it.</p>
+            <p>The laſt Argument to which I ſaid little then (by reaſon I
+was interrupted with their Women-prea<g ref="char:EOLhyphen"/>chers) was this, <hi>viz. That it did
+appear they were imme<g ref="char:EOLhyphen"/>diately ſent of God, becauſe they did not give
+reſpect to per<g ref="char:EOLhyphen"/>ſons.</hi> I anſwer, firſt then, All the Quakers, both
+men and women, are ſent of God immediately to preach the Goſpel, for none
+of them give reſpect to perſons. But ſecondly, is not this an abominable
+piece of wic<g ref="char:EOLhyphen"/>kedneſs? for by the rule of contraries, <hi>Paul</hi> was not
+ſent of God, for he did reſpect <hi>Feſtus,</hi> and call'd him, <hi>MOST
+NOBLE FESTUS,</hi> Acts 24.3. and 26.25. Now all the people were not Moſt
+Noble; for the Scripture ſaith, <hi>Not many Noble are called:</hi> by which
+it appears, that ſome were more Noble then others, and had that reſpect
+given to them, that was not common to all: But I ſhall ſay more to this
+a<g ref="char:EOLhyphen"/>non.</p>
+            <p>My laſt anſwer to this Argument (if I may ſo call it, and
+<hi>James</hi> not judge me for a Lyer) is, That if their not ſitting up, and
+giving civil reſpect, be an argument that theſe are ſent of God; then
+<hi>Auſtin</hi> the Monk was ſent of God, and many others that I could
+name: but let me trouble you with the recital of one ſtory con<g ref="char:EOLhyphen"/>cerning
+<hi>Auſtin</hi> the Monk; and upon the reading of it, you will think (if
+<hi>James</hi> ſaith true) that <hi>Auſtin</hi> was a man ſent
+immediately of God. Auſtin, 561 <hi>yeares after Christ, in the time of</hi>
+Ethelbert <hi>King of</hi> Kent, <hi>was ſent by Pope</hi> Gregory <hi>to
+convert the</hi> Saxons; <hi>who, ſome time after call a Synod, unto which
+reſorted ſeven</hi> Britiſh <hi>Biſhops, and other learned men,</hi>
+ſaith <hi>Beda</hi> in this Hiſtory, <pb n="18" facs="tcp:118625:14"/>
+               <hi>Book</hi> 2.
+<hi>Chap.</hi> 2. <hi>Theſe men now ready to go to the Synod, came first to a
+certain holy wiſe man to ask his counſel (which ſome think was biſhop
+of</hi> York) <hi>Whether they ought at</hi> Auſtins <hi>Preaching and
+Exhortation, to leave their Tradi<g ref="char:EOLhyphen"/>tions</hi> (Auſtin <hi>being come a
+ſtranger among them) The good man anſwered, If he be a man of God, follow
+him; but (ſaid they) how ſhall we know that? He anſwered, Chriſt
+(ſaith he) ſaid, That we ſhould learn of him, for he was humble, and meek
+of heart: If therefore (ſaith this good man) this</hi> Auſtin <hi>be milde
+and bumble, it is like he is of God; but if he be proud, no proud man is of
+God. Then the Biſhops inquired, how they might know that? The man
+anſwereth, Provide (ſaith he) that he and his company come firſt to the
+place of Meeting; and if it be ſo, that when you approach near him, he
+ariſe and ſalute you, then think him to be the Servant of Chriſt: but if
+he do not vouchſafe to riſe at your preſence, let him be deſpiſed.
+They hereupon took the old mans counſel, and when they came in,</hi> Auſtin
+<hi>the Monk ſate very ſtill in his Chair, and ſtirred not: here<g ref="char:EOLhyphen"/>upon
+they judged him a proud man.</hi> See <hi>Speeds</hi> Chron. <hi>pag.</hi> 291.
+I do urge this to ſhew, That if this be an argument a man is ſent of God
+immediately, ſurely this man, <hi>viz. Auſtin</hi> the Monk, was ſo
+ſent of God, and ſo are all the Popes at this day, that will not reve<g ref="char:EOLhyphen"/>rence
+any Monarch under Heaven; ſo that theſe Ar<g ref="char:EOLhyphen"/>guments are ſo ſlender, that
+if Chriſt and his Apoſtles had had no better, they had never made any
+Proſe<g ref="char:EOLhyphen"/>lytes to the Kingdom of Heaven to this day, how greatly ſoever you
+brag of your Converts.</p>
+            <p>I now come to their next Error,<note place="margin">4
+<hi>Error.</hi>
+               </note> and that is, That every man hath a Light within, that
+will teach a man to Worſhip God rightly. This is ſo common a prin<g ref="char:EOLhyphen"/>ciple of
+theirs, that to go about to prove it, were but <pb n="19" facs="tcp:118625:14"/>to hold a
+candle to the Sun: therefore taking this for granted, that they thus teach, as
+I hope I may without wrong to them, I ſhall now ſhew, That this is falſe
+Doctrine, and is taught to no other end (I fear) then to thruſt out the
+Authority of the holy Scri<g ref="char:EOLhyphen"/>ptures.</p>
+            <p n="1">1. For firſt, what need is there of Scripture to declare
+the Minde of God, if it may be known with<g ref="char:EOLhyphen"/>out it every whit as well? But now
+the Scripture ſaith, that <hi>what was writ afore-time, was writ for our</hi>
+Learning, <hi>Rom.</hi> 15.4. and <hi>John</hi> 20.31. <hi>But theſe things
+were writ, that you might believe:</hi> 1 Cor. 10.11. <hi>Theſe things were
+written for our admonition, upon whom the ends of the world are come.</hi>
+            </p>
+            <p n="2">2. I demand, Whether by the Light which is in the whole
+world, or in every one that comes into it, all men may come to know a Virgin
+had a Son, with<g ref="char:EOLhyphen"/>out any other external means?</p>
+            <p n="3">3. I demand, Whether the Light in every man, without the
+Scriptures, can bring every man to know Chriſt dyed, and roſe again in
+three dayes?</p>
+            <p n="4">4. I demand, What favour it was to the people of
+<hi>Iſrael,</hi> to have the written Law of God, in ſuch a man<g ref="char:EOLhyphen"/>ner as it is
+ſaid of them, <hi>He had not dealt ſo with any Nation,</hi> if all Nations
+by the Light within them, might have (with the like facility) underſtood to
+ſerve and worſhip God as well without them?</p>
+            <p n="5">5. Whether all men by the Light within them, be<g ref="char:EOLhyphen"/>fore the
+coming of Chriſt, could ever have under<g ref="char:EOLhyphen"/>ſtood, that he ſhould be born in
+<hi>Bethlehem,</hi> as it was written?</p>
+            <p n="6">6. Whether the Name of Jeſus Chriſt may be knowne to all
+the World, by the Light within <pb n="20" facs="tcp:118625:15"/>them, without Scripture or
+Traditions?</p>
+            <p n="7">7. I demand, if the Light within can inform all men into the
+Divine Worſhip and Service of God, without the Scriptures, Whether it may not
+do it without your Books? If ſo,</p>
+            <p n="8">8. Whether or no you that will not be prodigal of your
+Apparel, and who will not lay out money up<g ref="char:EOLhyphen"/>on needleſs things, are not at
+this turn very prodigal, to buy candles to light them to the Sun? My meaning
+is, to lay out hundreds of pounds to print ſo many Books, when the world (if
+your Doctrine be true) might have known as much without them?</p>
+            <p n="9">9. Whether this is not as great ſuperfluity and
+prodigality, as wearing any thing that is not needful; <hi>viz.</hi> your
+paying great Rents for places to meet and preach in, when you ſay you know
+ſo much by the Light within you, as you need no Teacher? as ap<g ref="char:EOLhyphen"/>pears by a
+Book of <hi>James Nayler's,</hi> call'd, <hi>A Diſcovery of the firſt
+Wiſdome,</hi> pag. 8. where he makes it <hi>the cha<g ref="char:EOLhyphen"/>racter of the firſt man
+(or carnal man) to know God by rela<g ref="char:EOLhyphen"/>tion from others, either by word or
+writing.</hi> And to this purpoſe they apply 1 <hi>John</hi> 2.27. and
+<hi>Heb.</hi> 8.11. and in thee ſame page he makes it <hi>a note of a
+Spiritual man, that he knows God from his dwelling-place, and not by rela<g ref="char:EOLhyphen"/>tion
+from others,</hi> &amp;c.</p>
+            <p n="10">10. Whether there is not the like vanity in your ſpending
+your precious Times and Moneys to go a<g ref="char:EOLhyphen"/>bout the countreys, if the Light which
+is within the countreys, could have ſhewed them the ſame things without
+you?</p>
+            <p n="11">11. Whether you would not count it as vain a thing, as
+wearing any thing that is needleſs is counted by you, if any of you ſhould
+be at great coſt to car<g ref="char:EOLhyphen"/>ry <pb n="21" facs="tcp:118625:15"/>a Buſhel of coals to
+<hi>Newcaſtle,</hi> where there is coals enow already?</p>
+            <p n="12">12. Whether the Moneys that is thus needleſly laid out,
+would not be better beſtowed where is more need, <hi>viz.</hi> upon the
+hungry and the naked.</p>
+            <p>The fifth Error I ſhall name, is,<note place="margin">5
+<hi>Error.</hi>
+               </note> That there was one <hi>Jo: Lawſon</hi> accuſed for
+ſaying, <hi>The day of Judgement was paſt;</hi> which he in ſtead of
+diſowning of the charge, goes about to prove it from <hi>Matth.</hi> 12.20.
+and ſaith not one word touching the untruth of it. See a Book of theirs,
+called, <hi>Sauls Errand to Damaſcus,</hi> pag. 35. where you have that very
+Errour objected againſt them, with their anſwer to it. I ſhould not have
+char<g ref="char:EOLhyphen"/>ged this Errour upon them all, it being but the wri<g ref="char:EOLhyphen"/>ting and the ſaying
+of one man, did not all of them received and own it, as appears by the printing
+of it in a book, wherein many of them are concerned. Now is not this a
+conſequent of that deviliſh Doctrine, taught by <hi>Hymeneus</hi> and
+<hi>Philetus,</hi> which ſaid, that <hi>the Reſurrection was already
+paſt, and deſtroy the Faith of ſome?</hi> 2 Tim. 2.17, 18. For if the
+Judgement-day be paſt already; Reſurrection, that goes before Judgement,
+muſt be alſo paſt.</p>
+            <p>The ſixth Errour I ſhall name, is, That <hi>George
+Fox,</hi>
+               <note place="margin">6 <hi>Error.</hi>
+               </note>whom all of them own,
+profeſſeth himſelf to be the Eternal Judge of the World: and being
+charged with it by the Petitioners of the County of <hi>Lancaſter,</hi> makes
+no denial of any part of the Charge, but ſaith, <hi>The Saints ſhall judge
+the World:</hi> See pag. <hi>6.</hi> of a book of theirs, call'd, <hi>Sauls
+Errand to Damaſcus.</hi>
+            </p>
+            <p>The ſeventh Errour I ſhall mention, is, That <hi>George
+Fox,</hi>
+               <note place="margin">7 <hi>Error.</hi>
+               </note> whom they all own, ſaid,
+<hi>He was the Way, the Truth, and the Life;</hi> and being charged with this
+by the Peti<g ref="char:EOLhyphen"/>tioners <pb n="22" facs="tcp:118625:16"/>aforeſaid, he denies not a ſyllable
+of it; though it is obſervable, that many things that the ſaid perſons do
+object, they in their Replies do deny that ever they ſaid ſo; yet to this
+he makes no denyal, but ſaith, <hi>The Old-Man cannot indure to hear the
+New-Man ſpeak, which is Christ.</hi> This you may finde to be his anſwer in
+pag. 7. of <hi>Sauls Errand to Damaſcus.</hi>
+            </p>
+            <p>The eighth Errour I ſhall charge them with,<note place="margin">8
+<hi>Error.</hi>
+               </note> is, That the ſaid <hi>Fox</hi> ſaid, That <hi>he
+which took a place of Scri<g ref="char:EOLhyphen"/>pture, and made a Sermon of it, or from it, was a
+Conjurer, and his preaching was Conjuration.</hi> This he is charged with by
+the men aforeſaid, and in his printed anſwer denies not one ſyllable, but
+ſaith, <hi>He that raiſeth the Spirit out of the Letter, is a
+Conjurer</hi>
+               <note n="*" place="margin">See p. 7. of the laſt mentioned
+Book.</note>. Firſt, doth not the Scripture ſay, <hi>Acts</hi> 8. that from
+that place of Scri<g ref="char:EOLhyphen"/>pture which the Eunuch was reading, i.e <hi>(viz.)
+Philip</hi> preached unto him Jeſus? and did not the Eunuch reade the Letter,
+and did not <hi>Philip</hi> preach the Chriſt? was not that the Spirit, as
+your ſelves notion it? and yet you ſay, They that raiſe the Spirit out of
+the Let<g ref="char:EOLhyphen"/>ter, are Conjurers. Oh horrible Profaneneſs!</p>
+            <p>The ninth Errour is,<note place="margin">9 <hi>Error.</hi>
+               </note>
+that being charged with ſay<g ref="char:EOLhyphen"/>ing, <hi>The Scriptures are carnall:</hi> In the
+book and page laſt mentioned, he anſwers, <hi>The Letter of the Scripture
+is carnall.</hi> How now <hi>George!</hi> what is the Letter of the Scripture
+carnal? and do not you tell the people that you walk according to them? But why
+ſhould you walk after a carnal Rule, ſince you profeſs to be ſuch a
+Spiritual man? But by this the world may ſee, if their Candle be not put out,
+that this cunning <hi>Fox</hi> can run with the Hare, and hold with the
+Hound.</p>
+            <p>In the ninth page of the laſt mentioned Book,<note place="margin">10 <hi>Error</hi>
+               </note> one <pb n="23" facs="tcp:118625:16"/>
+               <hi>Leonard
+Hill</hi> is charged with ſaying, <hi>Christ had no body but his Church:</hi>
+which he denies not, but ſaith, <hi>There is one Body and one Spirit, even as
+ye are called.</hi>
+            </p>
+            <p>The eleventh Errour is,<note place="margin">11 <hi>Error</hi>
+               </note>
+That <hi>John Lawſon</hi> ſaid, pag. 35. of <hi>Sauls Errand to
+Damaſcus,</hi> that <hi>he had been in Hell, but now was in Heaven:</hi> Of
+this he is charged, and denies it not, but cites that place out of the
+ſe<g ref="char:EOLhyphen"/>cond of <hi>Jonah,</hi> where <hi>Jonah</hi> ſaith, <hi>Out of the belly
+of Hell he cryed to the Lord:</hi> Doth this prove <hi>Lauſon</hi> was ever
+in this Hell, or in any other? but he may come there before he thinks of it, if
+he repent not; and his Hea<g ref="char:EOLhyphen"/>ven he is in, will not ſhelter him.</p>
+            <p>The twelfth Errour is,<note place="margin">12 <hi>Error</hi>
+               </note>
+That they ſay they are per<g ref="char:EOLhyphen"/>fect, and ſin not. See a Book of theirs in
+anſwer to <hi>Hen: Haggar</hi> and <hi>Tho: Pollard,</hi> pag. 9. where they
+charge the men aforeſaid for lying, becauſe they ſaid, <hi>The Quakers
+boast of perfection;</hi> and yet in the ſame page they ſay, <hi>They own
+perfection, but do not boast of it.</hi> Oh ſtrange! What, that men ſhould
+be telling and prea<g ref="char:EOLhyphen"/>ching of their perfection, and in print proclaim they own
+it, and yet call men Lyers, for ſaying, that <hi>they loast of it!</hi> I
+pray reſolve me this Queſtion: If any man ſhould by word or writing, or
+both, publiſh his eſtate to the world, that he is thus and thus rich, would
+not your ſelves call him a proud boaſter, eſpe<g ref="char:EOLhyphen"/>cially if he ſhall
+boaſt of that he never had? and that you do ſo, I ſhall make it
+manifeſt in due place.</p>
+            <p>The thirteenth Errour is, that <hi>James Nayler</hi> ſaid,<note place="margin">13 <hi>Error</hi>
+               </note>that <hi>None can come to God nor Christ,
+but they that come to perfection:</hi> See <hi>Naylers</hi> Book, call'd,
+<hi>Love to the Lost,</hi> pag. 23. If this be true, <hi>Paul</hi> was not come
+to God nor Chriſt; for he ſaith, <hi>Phil.</hi> 3.12. <hi>Not as though I
+had already attained, or were already PERFECT:</hi> And <pb n="24" facs="tcp:118625:17"/>in
+the ſeventh of the <hi>Romans,</hi> the ſame Apoſtle ſaith once and
+again, That <hi>ſin did dwell in him;</hi> and doth not Chriſt call
+ſinners to come unto him? and yet you are ſo impudent as to ſay, That
+<hi>None can come, but they that come to perfection.</hi>
+            </p>
+            <p>The fourteenth Errour is,<note place="margin">14
+<hi>Error</hi>
+               </note> That <hi>James Nayler</hi> in his book call'd <hi>Love to
+the Loſt,</hi> p.23. ſpeaking of the Lords Supper, ſaith, That <hi>at all
+ſeaſons, whenſoever they eat or drink, they were to have communion with
+the Body and Blood of the Lord in their eating and drinking, though it were at
+the Gentiles (or Unbelievers) Table:</hi> alluding to that place of Scripture,
+1 <hi>Cor.</hi> 10.27. And another of them in a Book of theirs, call'd,
+<hi>Truths Defence against re<g ref="char:EOLhyphen"/>fined Subtilty,</hi> pag. 100. calls a man
+<hi>Carnal Sot, for ask<g ref="char:EOLhyphen"/>ing whether</hi> Paul <hi>did administer the Lords
+Supper with Bread and Wine;</hi> and thereupon demands, <hi>Whether the
+Apostles did give to the Corinthians Bread and Wine.</hi>
+            </p>
+            <p>The fifteenth Errour is, That <hi>James Parnel,</hi> in his Book
+call'd <hi>A Shield of Truth,</hi> hath theſe words, <hi>viz.</hi> That
+<hi>he denies all Baptiſm, but that of the holy Ghost and Fire:</hi> See page
+12. Another of them in a Book call'd <hi>Truths Defence against refined
+Subtilty,</hi> hath theſe words: he being asked, Whether Chriſt did
+com<g ref="char:EOLhyphen"/>mand his Diſciples to baptize with water? or, whe<g ref="char:EOLhyphen"/>ther they did baptize
+with water? he anſwers, That <hi>the querent had ſhewed his ſubtilty, in
+being ignorant of the Letter:</hi> alluding to that place, <hi>Matth.</hi>
+28.19. But I demand, Why theſe perfect men cannot ſpeak per<g ref="char:EOLhyphen"/>fect ſenſe?
+for what ſubtilty is it for a man to be ig<g ref="char:EOLhyphen"/>norant? yet he tells his querent,
+he hath ſhewed his ſubtilty in being ignorant. But to the thing it ſelf,
+<hi>viz.</hi> That there is no baptiſm, but that of the Spirit and Fire; when
+as the Scripture tells us of a baptiſm <pb n="25" facs="tcp:118625:17"/>with water, which
+is alſo required of them that do believe. But to evade the force of the
+Scriptures that ſpeak in the behalf of water-baptiſm, they uſe to ſay,
+That water-baptiſm did end, when other Cere<g ref="char:EOLhyphen"/>monies of the Law ended; but
+after the Reſurre<g ref="char:EOLhyphen"/>ction of Chriſt, it was not to be practiſed.</p>
+            <p>To which I anſwer, That it was by Chriſt com<g ref="char:EOLhyphen"/>manded, after
+that he roſe from the dead: See <hi>Mat.</hi> 28. and <hi>Mark</hi> 16.16.
+But if any ſhall ſay, This was to baptize with the Holy Ghoſt; I demand,
+Firſt, Whether that this baptiſm was not peculiar to Chriſt himſelf, as
+appears by <hi>John</hi>'s words, <hi>Matth.</hi> 3.11. <hi>HE</hi> (meaning
+Chriſt) <hi>ſhall baptize with the holy Ghoſt and fire?</hi>
+            </p>
+            <p>Secondly, Whether that if the command of <hi>Mat.</hi> 28. and
+<hi>Mark</hi> 16. be for to command the Apoſtles to baptize with the holy
+Ghoſt and fire, they did ever obey it? if they did, ſhew when and
+where.</p>
+            <p>Thirdly, Whether we may not judge, that the ba<g ref="char:EOLhyphen"/>ptizing men and
+women in water in the Name of Chriſt, which the Apoſtles frequently did,
+was not in obedience to ſome Commiſſion they had received from their
+Lord? If ſo,</p>
+            <p>Fourthly, Do you ſhew us where and when their Lord gave them a
+command ſo to do, if this of <hi>Mat.</hi> 28. and <hi>Mark</hi> 16. was not
+it: If you ſhall ſay, They did it in order to the peoples weakneſſes,
+as <hi>Paul</hi>'s cir<g ref="char:EOLhyphen"/>cumciſing <hi>Timothy</hi> was; then I demand,</p>
+            <p>Fifthly, Whether <hi>Paul</hi> did in the Name of the Lord Jeſus
+impoſe Circumciſion upon <hi>Timothy?</hi> if not, How doth this parallel
+with the caſe in hand, <hi>viz.</hi> water-baptiſm, which <hi>Peter,
+Acts</hi> 10. doth command in the Name of the Lord? But if you ſhall ſay,
+That <pb n="26" facs="tcp:118625:18"/>baptiſm with water was not commanded, but left to
+liberty: I demand,</p>
+            <p>Sixthly, Whether to command a thing to be done in the Lords Name,
+which he commands not, be not to ſin, &amp; take his Name in vain? See to
+this purpoſe <hi>Deut.</hi> 18.20. <hi>But the Prophet that ſhall preſume
+to ſpeak a word in my Name, which I have not commanded him to ſpeak,
+&amp;c. even the ſame Prophet ſhall dye.</hi>
+            </p>
+            <p>Seventhly, And whereas it is alledged, That wa<g ref="char:EOLhyphen"/>ter-baptiſm is a
+thing of indifferency, that may be done, or lawfully left undone; I demand,
+Whether it was not then as great a ſin in <hi>Peter, Acts</hi> 10. to
+com<g ref="char:EOLhyphen"/>mand the doing of it in the Name of the Lord, as it was for men to forbid
+to marry, or to command to ab<g ref="char:EOLhyphen"/>ſtain from meats, 1 <hi>Tim.</hi> 4.2, 3.
+ſeeing that to com<g ref="char:EOLhyphen"/>mand the doing of that which God hath left to liber<g ref="char:EOLhyphen"/>ty, is
+a ſin of equal extent with the forbidding of that he hath left to
+liberty?</p>
+            <p>Eighthly, But if it ſhall be ſaid (as ſometimes it is) That
+they in the Primitive Times did receive wa<g ref="char:EOLhyphen"/>ter-baptiſm, becauſe they had a
+command immediate<g ref="char:EOLhyphen"/>ly ſo to do, and therefore we are not to be baptized till
+ſo commanded: I anſwer, Firſt, how will this be proved, that all they
+that were then-baptized, were ſo commanded? is not the contrary to this
+eaſily made manifeſt, from <hi>Acts</hi> 2. and <hi>Acts</hi> 8. and many
+other places, where the people were mediately, by means of the Apoſtles
+preaching, put upon this duty, and not by extraordinary Revelations?</p>
+            <p>But to the main Queſtion, and that is this, Whe<g ref="char:EOLhyphen"/>ther or no that
+this very Principle doth not lay all o<g ref="char:EOLhyphen"/>ther Precepts waſte, and excuſe the
+obſervance of them till I am immediately inſpired thereto? I believe, if a 
+<pb n="27" facs="tcp:118625:18"/>man did owe a Quaker a ſum of money, he would be loth to
+be ſerved as he would have men ſerve Chriſt: As for inſtance, Suppoſe
+I did owe <hi>James Nayler</hi> a ſum of money; and he ſhould deſire me
+to pay him, and ſhould urge this Scripture, <hi>Owe nothing to any man,</hi>
+as an argument to perſwade me to pay him; what if I ſhould ſay, It is
+true, <hi>James,</hi> this was a command to them that could witneſs it in
+themſelves; and when by an immediate power they were inſpired to the
+ob<g ref="char:EOLhyphen"/>ſervance of it, then they were to do it; but till then they did not ſin
+in omitting of it: and therefore when I can witneſs this Text within me, I
+will pay thee thy money: Do you think they would count this fair dealing? yet
+in this manner would they have men deal with the commands of our Lord Jeſus:
+and the truth of it is, this evaſion of the command of ba<g ref="char:EOLhyphen"/>ptiſm doth as
+forcibly evade all other Precepts in the whole Bible. By this the Reader may
+ſee, that theſe men would make the commands of God of none effect by their
+tradition.</p>
+            <p>The ſixteenth Errour that I ſhall inſiſt upon, is,<note place="margin">16 <hi>Error</hi>
+               </note>That though they ſay they are perfect,
+yet they are inconſiſtent with themſelves; as appears, Firſt, in as
+much as they make it their daily practice to preach, That every man in the
+world hath a light within him, according to that Text, <hi>John</hi> 1. And yet
+one of their Scribes asketh a Miniſter of the Nation, <hi>Whether he had that
+light which doth lighten every one that comes into the world</hi>
+               <note n="*" place="margin">See for this a book of theirs cal'd <hi>Truths defence,</hi>
+p.3</note>? Oh horrible blindneſs! Did ever any man in his right wits ever
+ask ſuch a queſtion; having over and over aſſerted, that every man hath
+that light ſpo<g ref="char:EOLhyphen"/>ken of <hi>John:</hi> 1, and yet to ask a man, Whether he hath
+that light ſpoken of <hi>John</hi> 1. Surely this man did not 
+<pb n="28" facs="tcp:118625:19"/>underſtand, that the party of whom he demanded the
+queſtion, was a man, or elſe he was not of age to un<g ref="char:EOLhyphen"/>derſtand, that
+univerſals do include all particulars of their ſpecies; and yet theſe are
+the men that witneſs perfection. Let me tell thee, Reader, whoever thou art,
+that theſe men are the ſaddeſt ſpectacles of Gods Spi<g ref="char:EOLhyphen"/>ritual
+Judgements, that ever any Age hath heard of: And ſurely, if ever any people
+were given up to be<g ref="char:EOLhyphen"/>lieve a lye, theſe are the men: for was it ever heard of,
+that a man ſhould profeſs to be immediately ſent of God, and to be
+infallibly guided by him, and to have attained to perfection, as theſe would
+have it, and yet not know common ſenſe? What think ye, if after
+<hi>Paul</hi> had told the <hi>Athenians, Acts</hi> 17. that <hi>God did give
+to all life and breath,</hi> if afterwards he ſhould ask the
+<hi>Areopagite,</hi> Whether God had given him life and breath? Do you think he
+would ever have cleaved to <hi>Paul,</hi> as the 34 Verſe of the aforeſaid
+Chapter, doth declare he did? and yet ſuch are the injudicious mindes that
+many in our dayes are given up to, that though an Angel from heaven ſhould
+detect their vanity, yet ſome would reſolve to be vain.</p>
+            <p>A ſecond inſtance of their inconſiſtency, is, That though
+they ſay the letter of the Scripture is carnal, as appears by a Book of
+theirs call'd <hi>Sauls Errand to Damaſcus;</hi> yet, for the juſtifying of
+their conceited New-light, they make uſe of the firſt of <hi>John,</hi> and
+many other Texts in the letter, though therein they ſtretch it beyond its
+line.</p>
+            <p>But further, at another time they ſay, That <hi>it is a ſign
+of a dark minde, to think the Scriptures ſhould have an<g ref="char:EOLhyphen"/>other
+meaning</hi>
+               <note n="*" place="margin">See a Book of theirs cal'd <hi>Truths
+De<g ref="char:EOLhyphen"/>fence,</hi> p. 1.</note>. And yet in the Book call'd, <hi>Sauls Er<g ref="char:EOLhyphen"/>rand to
+Damaſcus,</hi> they ſay, <hi>The letter is carnal:</hi> and yet 
+<pb n="29" facs="tcp:118625:19"/>for all this, a little before in the ſame book, they
+ſay, <hi>He that raiſeth Spirit out of it, is a Conjurer;</hi> as I have
+already mentioned upon another occaſion.</p>
+            <p>What miſerable confuſion is here? doth this look like
+perfection? One while the letter is carnal, and another while its conjury to
+raiſe Spirit out of it; and another while its a ſign of a dark minde, to
+think the Scriptures ſhould have another meaning; and ano<g ref="char:EOLhyphen"/>ther while they
+will give other meanings to them, then what is expreſt in the letter.</p>
+            <p>A third inſtance of their inconſiſtency, (and by which, all
+that I have ſaid is juſtified) is, That though they ſay they own the
+Scriptures, and will talk a few words ſometimes in their behalf; yet one of
+them ſaid in a book call'd <hi>Truths Defence,</hi> pag. 2. in anſwer to
+Parſon <hi>Camelford of Stavely-Chappel, That he might as well have condemned
+the Scriptures to the fire to be burned, as his Quares that be ſent unto him;
+or, that he might as well have ſaid the ſayings of Chriſt and his
+Apoſtles were abſurd, as to ſay thoſe Quares were abſurd, they</hi>
+(meaning his Quaeres) <hi>being given forth by the ſame Spirit the
+Scri<g ref="char:EOLhyphen"/>ptures were.</hi>
+            </p>
+            <p>A fourth inſtance of their inconſiſtency, is, That one
+<hi>William Tomlinſon,</hi> in a book of his call'd <hi>A word of
+Reproof,</hi> p. 11. doth blame the Miniſters, for praying before or after
+Sermon, and ſaith, <hi>What, did Chriſt or his Apoſtles fall ſhort of
+what they ought to do, and leave it to you to mend it?</hi> And yet in other
+caſes we muſt not follow Chriſt's and the Apoſtles example; and yet he
+would bring them to diſprove the lawfulneſs of praying before or after
+Sermon, becauſe they did not ſo.</p>
+            <p>But further, he inveighs againſt the Miniſters for ſo 
+<pb n="30" facs="tcp:118625:20"/>doing; yet one of their own <hi>Merlins</hi> prayed after
+Ser<g ref="char:EOLhyphen"/>mon, at the <hi>Bull</hi> and <hi>Mouth</hi> at <hi>Alderſgate,</hi>
+before hun<g ref="char:EOLhyphen"/>dreds of people. I pray judge, if any thing of this look like
+perfection: nay, are not theſe things Strong ſymptomes of the greateſt
+degrees of defection, that can befal the ſons of men?</p>
+            <p>Now I come to the next Errour,<note place="margin">17
+<hi>Error</hi>
+               </note> and that is, They ſtudy and deviſe deceitful terms,
+that look with two faces, like the Oracles of the heathen Gods, that they may
+the better effect their deceits: as for inſtance, one of them, namely,
+<hi>Farnworth,</hi> being charged by <hi>Hen: Haggar</hi> and <hi>Tho:
+Pollard,</hi> for ſaying, <hi>Paul was not converted, when be ſpake thoſe
+words in the 7 to the</hi> Ro<g ref="char:EOLhyphen"/>mans, <hi>where be cries out of a Body of
+Death:</hi> To this they anſwer in a printed book, call'd <hi>Scriptures
+freed from Scandals,</hi> pag. 12 &amp; 13. <hi>That there is not ſuch an
+Affir<g ref="char:EOLhyphen"/>mative in the whole Book.</hi> Now mark: the charge is a Negative
+Propoſition, <hi>viz.</hi> That <hi>Paul</hi> was not con<g ref="char:EOLhyphen"/>verted when he
+ſpake thoſe words in the 7 of the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> concerning a <hi>Body
+of death;</hi> they anſwer, That there is not ſuch an Affirmative in the
+whole Book.</p>
+            <p>Reader, had theſe words fallen from the mouth of a man that were
+conſcious of his imperfection, Cha<g ref="char:EOLhyphen"/>rity would have taught me to have
+over-look'd them; but now I cannot: for ſuch a ſpeech as this, either
+ar<g ref="char:EOLhyphen"/>gues the ſpeaker to be imperfect, and ſo diſcovers his deceit, in
+ſaying he is perfect; elſe if he be perfect (as believe it who's will) how
+could ſuch a thing fall from his pen? and on the other hand, if he
+underſtood what he writ, then it follows, that he writ that to reſcue
+himſelf from the force of the charge, that ſo ſim<g ref="char:EOLhyphen"/>ple people, that know
+not a Negative from an Affirma<g ref="char:EOLhyphen"/>tive, <pb n="31" facs="tcp:118625:20"/>might think he was not
+guilty of ſuch a charge; by his ſaying, <hi>There is not ſuch an
+Affirmative in the whole Book.</hi>
+            </p>
+            <p>But Oh the impudence of theſe men, that dare to ſay, That one
+might as well burn the Scriptures, as their Papers; when, if the Scriptures had
+let fall Ne<g ref="char:EOLhyphen"/>gatives in ſtead of Affirmatives, and Affirmatives in ſtead of
+Negatives, how could they have been for our learning, upon whom the ends of the
+world are come? I dare challenge all men in the world, either Quaker,
+Atheiſt, or Anti-Scripturaliſt, to ſhew me ſuch a piece of
+Non-ſenſe from any of the Pen-men of old, who were inſpired by the holy
+Spirit. Who will believe that theſe mens tongues and pens are infallible
+Ora<g ref="char:EOLhyphen"/>cles, that know not <hi>I</hi> from <hi>No,</hi> and that put <hi>Nay</hi>
+in ſtead of <hi>Yea:</hi> for is it not the ſame? he is charged for
+ſaying, <hi>Paul was not converted,</hi> and he ſaith, <hi>There is no
+ſuch Affirmative in his whole Book:</hi> but then it ſeems there is ſuch
+a negative; and if ſo, then how dare they call thoſe honeſt ſervants of
+Chriſt lyers, <hi>viz. H:Haggar,</hi> and <hi>Tho: Pollard?</hi> By this you
+may ſee, that theſe are the greateſt Seducers that theſe latter Times
+have produced; and the Lord grant, that theſe things that I do bring to thy
+minde concerning them, may be as warnings to you that ſtand, to take heed
+left you fall; and you that know God, delight to glorifie him, left he give you
+over to a reprobate minde, to do the things that are not covenient: Take heed
+there fore, and be warned of turning the truth of God into a lye (as theſe
+men have done) left God in his Juſtice give you up to believe a lye.</p>
+            <p>The next thing I have to preſent the Reader with,<note place="margin">18 <hi>Error</hi>
+               </note>is, their Lying: and that, firſt, in
+ſaying, <hi>They are per<g ref="char:EOLhyphen"/>fect;</hi> 
+               <pb n="32" facs="tcp:118625:21"/>when all the
+fore-cited imperfections are found in them, beſides many more, as ſhall be
+named.</p>
+            <p>The ſecond Lye is, that they ſay, <hi>They are immediate<g ref="char:EOLhyphen"/>ly
+ſent of God;</hi> which nothing is more falſe.</p>
+            <p>The third Lye is, That one <hi>Fox</hi> writ a book, and in the
+Title-page ſaid, <hi>The world did not know his Name;</hi> and yet in two
+ſeveral places of the ſaid Book, he ſub<g ref="char:EOLhyphen"/>ſcribes himſelf, <hi>Known by
+the Name of</hi> GEORGE FOX.</p>
+            <p>The fourth Lye is, That one <hi>Edward Boroughs</hi> ſaid, His
+<hi>Book was ſealed by the Spirit of the Eternal God:</hi> and being demanded
+to prove it, he asked, <hi>If any thing he writ in it was falſe?</hi> it was
+replyed to him again, If he proved that God ſealed his Book, we would believe
+all that was in it: which I am ſure he can never do while the world
+ſtands.</p>
+            <p>A fifth Lye is, That <hi>James Nayler</hi> in a written Pa<g ref="char:EOLhyphen"/>per
+which he ſent to me, calls me <hi>ſhameleſs man, for tempting him to deny
+the Lord:</hi> when I ſaid no ſuch thing; but that I did ſay, &amp; to
+which he alludes in his Paper, was, That either he ſhould prove he was
+immediately ſent of God, as he profeſt, or elſe that he ſhould
+re<g ref="char:EOLhyphen"/>nounce it: and thereupon he calls me <hi>ſhameleſs man, in tempting him
+to deny the Lord.</hi>
+            </p>
+            <p>A ſixth Lye is, That <hi>James Nayler</hi> in the ſaid Paper
+ſaith, <hi>If he had come in his own Name, I would have re<g ref="char:EOLhyphen"/>ceived him,
+as</hi> (he ſaith) <hi>I did plainly confeſs.</hi> I do be<g ref="char:EOLhyphen"/>lieve this man
+hath bent his tongue like a Bowe for lyes: for I dare appeal to all the company
+(which I believe were at leaſt two hundred) if I ſaid any ſuch thing.</p>
+            <p>A ſeventh Lye is, that being charged with writing ſuch
+falſities in his Paper, by a friend that read it, <pb n="33" facs="tcp:118625:21"/>and
+knew what was in it, he (at a Meeting at the <hi>Bull</hi> and <hi>Mouth</hi>
+at <hi>Alderſgate</hi> in <hi>London</hi>) did utterly deny it; and while the
+ſaid friend ran from them to my houſe (which is not farre) to fetch the
+ſaid Paper, to prove that he had writ thoſe untruths that he had charged
+<hi>Nayler</hi> with, in the mean time he ſlips away, and was gone. If
+theſe are tokens of perfection, ſure one may as well ſay the Devil is
+perfect: but ſure if theſe men are perfect in any thing, it is in the art
+of decei<g ref="char:EOLhyphen"/>ving, lying, and equivocation.</p>
+            <p>Theſe are but few of thoſe legions of Lyes and
+In<g ref="char:EOLhyphen"/>conſiſtencies that their Writings and Preachings are ſtuſt withall,
+as the judicious may perceive, that will but ſtrictly weigh what they either
+write on ſpeak, in the balance of the Sanctuary.</p>
+            <p>Having now been in the place of a Reſpondent, to ſhew the
+Fallacies, and Non-ſequiturs, and abſurd Contradictions of the Arguments
+that theſe men bring for their Quakings and Infallible Preachings; together
+with other their vain Conceits of the Scri<g ref="char:EOLhyphen"/>ptures, and of the Ordinances of our
+Lord Jeſus Chriſt: I ſhall now aſſert ſomething briefly by way of
+oppoſition to theſe mens conceits, and endeavor the proof thereof from
+Scripture and Reaſon, as God ſhall enable me.</p>
+            <p>And firſt of all, I ſhall affirm, That the written Precepts
+and Promiſes of God, together with his Threatnings of Judgements, and
+Exhortations to a<g ref="char:EOLhyphen"/>mendment of life, they are, and ought to be eſteemed the
+Words of God.</p>
+            <p>That his written Commands may and ought to be ſo called, I prove
+from <hi>Mark</hi> 7.10. for <hi>Moſes</hi> ſaid, <hi>Honour thy Father and
+Mother,</hi> &amp;c. which was the wri<g ref="char:EOLhyphen"/>ting <pb n="34" facs="tcp:118625:22"/>of
+<hi>Moſes,</hi> Exod. 20.12. And Chriſt ſaith, their <hi>making this
+written Law of none effect,</hi> in doing nothing for their Father or Mother,
+was <hi>To MAKE THE WORD OF GOD of none effect by their Tradition, John</hi>
+10.35. and <hi>Jer.</hi> 36.2, 5. And <hi>Baruch wrote at the mouth of
+Jeremiah, all the WORDS OF THE LORD:</hi> and ver. 8. <hi>He was reading in a
+BOOK the WORDS OF THE LORD.</hi> Again, the Apo<g ref="char:EOLhyphen"/>ſtle calls the Law of
+<hi>Moſes,</hi> which contained Pre<g ref="char:EOLhyphen"/>cepts, Promiſes, Threatnings, and
+Exhortations, <hi>The Oracles or WORDS OF GOD,</hi> Rom. 3.2. But it is
+objected, <hi>The written Word did not make the World.</hi> To which I
+anſwer, That if they mean the Ink and Pa<g ref="char:EOLhyphen"/>per, we make one minde with them.
+But yet further I reply, That the ſame God whoſe Word made the World, and
+whoſe Word preſerves the Fabrick of the World, did ſpeak thoſe words
+that are written, for the admonition of the World; and therefore they may truly
+be call'd <hi>Gods Words,</hi> according to the fore-cited Scriptures, and many
+other that may be named.</p>
+            <p>Again, it is objected, That the Word of God a<g ref="char:EOLhyphen"/>bides for ever, but
+the Writings may be burned: To which I anſwer, That this doth not prove that
+which they would have, <hi>viz.</hi> That the Commands contained in the
+Scriptures, may be burned, or any of Gods Promiſes to him that ſears him,
+or his Judge<g ref="char:EOLhyphen"/>ments upon them that do not fear him: No, theſe re<g ref="char:EOLhyphen"/>main like
+Mount <hi>Sion,</hi> that ſhall not be removed: As for example, the Words of
+God were writ upon Ta<g ref="char:EOLhyphen"/>bles of Stone; yet the breaking of the Tables did not put
+a diſſolution to thoſe words that were contained in them, but they were
+as truly to be obſerved, as if the Tables had been whole.</p>
+            <pb n="35" facs="tcp:118625:22"/>
+            <p>Reader, I ſhould not urge theſe as arguments to thoſe that
+diſown the Scriptures in words at length; but ſure I am, that they will
+ſerve to confute theſe men, that in words own them, yet in works deny
+them.</p>
+            <p>Again, I prove the Scriptures as aforeſaid to be the VVord of
+God out of their own mouthes, though it may be they may deny the conſequent:
+for they, though they deny them to be the VVord of God, yet they ſay they are
+a declaration of his Minde and VVill.</p>
+            <p>VVhence I thus argue, That which declares Gods VVill, is Gods
+VVord: But the Scriptures declare Gods VVill; <hi>Ergo,</hi> it is Gods VVord.
+The <hi>major</hi> I prove out of their own mouthes; for they all ſay, that
+<hi>Nothing can inlighten but the Word;</hi> and, that <hi>Nothing can bring us
+to know Gods Minde, but the Word:</hi> though it may be they mean ſomewhat
+elſe by <hi>Word</hi> then I do, yet that matters not: for, if nothing can
+manifeſt Gods Minde, but Gods VVord, and the Scriptures by their own
+confeſſion do ſo; then it follows, That by their own Principles (if they
+have any) that the Scriptures may be ſo called, though in words at length
+they do deny it. By which you may ſee, how miſera<g ref="char:EOLhyphen"/>bly theſe men
+contradict themſelves, in ſaying, <hi>The Scriptures are not Gods
+Word,</hi> and yet ſay, <hi>They are a declaration of his Will:</hi> when at
+another time they ſay, <hi>Nothing can declare Gods Will, but his Word;</hi>
+which they ſay the Scripture is not.</p>
+            <p>Secondly, I do aſſert, That the Light which every man hath,
+doth not direct him into the worſhip and ſervice of God: and though
+Chriſt be <hi>the true Light, that inlightens every man that comes into the
+world,</hi> or that doth that which in its nature and property hath ſuch a 
+<pb n="36" facs="tcp:118625:23"/>tendency; for ſo the Scriptures ſpeak ſometimes,
+<hi>Ezek.</hi> 24.14. <hi>Becauſe I have purged thee, and thou waſt; not
+purged;</hi> that is (as if God had ſaid) I have done that which was
+ſufficient for thy purgation; And the like in <hi>Joh.</hi> 1.29. Chriſt is
+called, <hi>The Lamb of God, that takes away the ſins of the world;</hi>
+though he that be<g ref="char:EOLhyphen"/>lieves not, ſhall dye in his ſins: the meaning then
+muſt not be, that every man hath his ſins pardoned. In like manner then
+when the ſame pen ſaith, that as he ta<g ref="char:EOLhyphen"/>keth away the ſins of the world,
+<hi>ver.</hi> 29. ſo <hi>he doth in<g ref="char:EOLhyphen"/>lighten every one that comes into the
+world,</hi> ver. 9. which is as much as if he had ſaid, Jeſus Chriſt by
+his bleſ<g ref="char:EOLhyphen"/>ſed mediation, hath done that which is able to effect pardon of
+ſins for the world, and which alſo is able to inlighten and inform the
+world into the knowledge of it: How then doth this Text prove, That every man
+hath this Light within him, any more then the other Texts proves every mans
+ſins were took away? the latter of which, themſelves will not allow.</p>
+            <p>But further, if every man hath received this Light, <hi>Joh.</hi>
+1. then every man hath received Chriſt: for he is that Light, <hi>ver.</hi>
+9.</p>
+            <p>But every man hath not received Chriſt: <hi>Ergo.</hi>
+            </p>
+            <p>The <hi>minor</hi> I prove from the 11 ver. of the ſame Chapter;
+<hi>He came to his own, and his own received him not;</hi> and the Builders
+were ſaid to refuſe him, <hi>Matth.</hi> 21.42. and many other places: But
+if they ſhall think to be relieved at this turn with this diſtinction,
+<hi>viz.</hi> That it is one thing to have the Light, and another thing to
+receive it: Then I demand, If this Light was not received, how can it be in all
+men, unleſs they are born with it? Secondly, whether men HAVE ANY THING, but
+what they have RECEIVED, accord<g ref="char:EOLhyphen"/>ing <pb n="37" facs="tcp:118625:23"/>to I <hi>Cor.</hi> 4.7.
+eſpecially any Light or Knowledge of Jeſus Chriſt. Laſtly, whether the
+Scriptures do make a diſtinction between a mans having the Spirit of
+Chriſt, or the Light of Chriſt within him; and his receiving Chriſt, and
+receiving of the Spirit within him, or in his heart, as the Apoſtle phraſes
+it, <hi>Rom.</hi> 8.</p>
+            <p>But to proceed: Doth not the Scripture ſay, <hi>John</hi> 11.10.
+That <hi>He that walks in the dark ſtumbles, becauſe there is NO LIGHT in
+him?</hi> And <hi>Iſa.</hi> 8.20. <hi>If they ſpeak not according to this
+rule, it is becauſe there is NO LIGHT in them?</hi> and yet theſe ſay,
+Every man in the world hath the Light within him, ſpoken of <hi>John</hi> 1.
+which Light is Chriſt.</p>
+            <p>Thirdly, In oppoſition to another of their Er<g ref="char:EOLhyphen"/>rours, I ſhall
+prove, That the day of Judgement is not paſt; which I prove thus:</p>
+            <p>If the Heavens and the Earth are reſerved to the Fire of that
+Judgement-day, then is it not paſt al<g ref="char:EOLhyphen"/>ready: But the Heavens and the Earth
+are reſerved to the fire of that day; therefore that day is not paſt
+already.</p>
+            <p>The <hi>major</hi> is unqueſtionable: For if they are yet kept
+from the fire of that day, and are reſerved to the fire of it; then it
+followeth, That none bath ſeen that day, becauſe the Heavens have not felt
+the heat of it. The <hi>minor</hi> is proved out of 2 <hi>Pet.</hi> 3.7.</p>
+            <p>Again, if the day of the perdition of the ungodly be not paſt,
+then the day of Judgement is not: But the day of the perdition of the ungodly
+is not; there<g ref="char:EOLhyphen"/>fore the day of Judgement is not.</p>
+            <p>Again, if in that day all muſt give account of the deeds done in
+the body, and there are thouſands, and <pb n="38" facs="tcp:118625:24"/>ten thouſands
+that have not given an account; then it follows, that the day of Judgement is
+not paſt: But there are thouſands, and ten thouſands that have not given
+an account of the deeds done in the body; therefore the day of Judgement is not
+paſt al<g ref="char:EOLhyphen"/>ready.</p>
+            <p>Again, if the day of Judgement be paſt already, then the
+Reſurrection is paſt already: But the Reſur<g ref="char:EOLhyphen"/>rection is not paſt
+already; <hi>Ergo.</hi>
+            </p>
+            <p>The <hi>major</hi> I prove from <hi>John</hi> 5.29.</p>
+            <p>The <hi>minor</hi> I prove thus: In the Reſurrection they
+neither marry, nor give in marriage: But now men do both; therefore they are
+not in the Reſurrection.</p>
+            <p>Fourthly, They ſay, <hi>There is no Baptiſm but that of the
+Spirit.</hi> In oppoſition to which, I do affirm a Baptiſm with water;
+which I prove from <hi>Mark</hi> 16.16. and <hi>Matth.</hi> 28.19.<note n="*" place="margin">
+                  <hi>Act</hi> 2.38, 41. <hi>&amp;</hi> 8.3, 6. <hi>&amp;</hi> 10.4,
+7.</note> And that the baptiſm here comman<g ref="char:EOLhyphen"/>ded was water-baptiſm, it
+appears by what I have already ſaid, by way of Reply to this notion: Alſo
+the Scripture tells us, <hi>Heb.</hi> 6. of the Doctrine of <hi>BAPTISMS.</hi>
+And whereas it is objected, That the Scripture tells us of <hi>one Lord, and
+one Baptiſm:</hi> I anſwer, Firſt, this is not excluſive; for there are
+Lords many; yet he ſaith, <hi>There is but one Lord Jeſus:</hi> So in like
+manner we reade of divers baptiſms; as of water, and afflictions, and the
+holy Ghoſt: yet there is but one properly ſo call'd, to wit, That of water,
+and the other are metaphorical baptiſms.</p>
+            <p>Fifthly, That the Lord Chriſt did adminiſter bread and wine,
+in token of his blood-ſhedding and body<g ref="char:EOLhyphen"/>breaking; which they deny: This I
+prove from <hi>Mai.</hi> 26.27, 28. where Chriſt did uſe both bread and
+wine upon that occaſion: and that the Apoſtles did ſo, ap<g ref="char:EOLhyphen"/>pears from 1
+<hi>Cor.</hi> 11.23. where he ſaith, That <hi>that <pb n="39" facs="tcp:118625:24"/>which
+he received of the Lord, he did deliver unto them, how that Chriſt when he
+was betrayed, took bread:</hi> and ver. 25. <hi>In like manner</hi> (ſaith
+the Apoſtle) <hi>he took the Cup when he had ſupped,</hi> &amp;c. All which
+ſhew, That bread and wine was inſtituted by Chriſt, and practiſed by
+the Primitive Chriſtians, in remembrance of the dy<g ref="char:EOLhyphen"/>ings of the Lord
+<hi>Jeſus.</hi>
+            </p>
+            <p>Sixthly, That civil honour and reſpect is due to ſome
+perſons more then other; which they deny: Firſt, from the childe to the
+father, as <hi>Exod.</hi> 20.12. <hi>Eph.</hi> 6.2. Secondly, from the wiſe
+to the husband, <hi>Eph.</hi> 5.33. and 1 <hi>Pet.</hi> 3.6. <hi>Sarah obeyed
+Abraham, and called him LORD.</hi> Thirdly, this is due from ſervants to
+their Maſters, 1 <hi>Tim.</hi> 6.1. <hi>Let as many ſervants as are under
+the yoke, count their Maſters worthy of All honour, &amp;c.</hi> Fourthly, it
+is due from young ſolks to the aged, <hi>Levit.</hi> 19.32. <hi>Thou ſhalt
+riſe up before the boary head, and honour the face of the old man, and fear
+thy God:</hi> or as <hi>Beza</hi> hath it, <hi>Thou ſhalt honour the PERSON
+of the old man.</hi> Fifthly, this reſpect is due to perſons in Authority;
+as not onely the Apoſtle exhorts, I <hi>Pat.</hi> 2.17. but as <hi>Paul</hi>
+himſelf practiſeth (as I have ſaid) when he calls <hi>Feſtw, Moſt
+Noble:</hi> and our Lord <hi>Chriſt</hi> notes the unjuſt Judge for one
+that did not reverence man, <hi>Luke</hi> 18.2. and yet the Quakers make it a
+note of their infallible Miniſtery, that they do not reve<g ref="char:EOLhyphen"/>rence men; when
+Chriſt makes it a character of a wicked man. This was urged by <hi>James
+Nayler</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate, viz.
+That their not re<g ref="char:EOLhyphen"/>ſpecting perſons, was a ſign they were immediately
+ſent of God,</hi> as I have already minded.</p>
+            <p>Again, was not <hi>Jacob</hi> a faithful man, and doth not the
+Scripture ſay, that <hi>he called Eſau LORD,</hi> Gen. 32.18. 
+<pb n="40" facs="tcp:118625:25"/>Gen. 33.13, 14, 15. And <hi>Luke</hi> calls
+<hi>Theophilus,</hi> Luk. 1.3. <hi>Moſt Noble Theophilus:</hi> And
+<hi>Chriſt</hi> himſelf bids his Diſciples, <hi>Not to covet the
+uppermoſt rooms at feaſts, leſt a MORE HONORABLE perſon come in, and
+then they be bid ſit lower,</hi> Luke 14.8. By all this you may ſee, that
+though we muſt not reſpect perſons in Judgement, or do any thing for a
+rich man, becauſe he is rich, with<g ref="char:EOLhyphen"/>out reſpect had to the equity of the
+cauſe; or give flattering Titles to men, to whom it is not due, as to call
+one <hi>Maſter,</hi> and ſay, <hi>I am his Servant,</hi> when I owe him no
+ſervice: yet this doth not hinder, but a man may and ought to acknowledge
+himſelf a Servant, when he is really and truly ſo: And though it be
+flat<g ref="char:EOLhyphen"/>tery to give Titles that are not due; yet it is a duty to give them where
+and when they are due.</p>
+            <p>Seventhly, they are not Infallible, as they pretend: This I prove,
+becauſe if one propoſe a queſtion to one of them, he ſhall give one
+anſwer; propoſe the ſame to another, he ſhall give another anſwer,
+quite con<g ref="char:EOLhyphen"/>trary to the former: and ſo if you ſhall go on to a fourth or
+fifth, not one of five, nay (I dare ſay) not one of ten ſhall give the
+ſame anſwer with the firſt: and yet ſometimes theſe men do make the
+harmony that is among them, an argument that they are infal<g ref="char:EOLhyphen"/>lible; when no
+Trumpet that ſounds forth any thing of Religion to the world, gives a more
+uncertain ſound then theirs. And truly, I know nothing wherein they were ever
+ſo well agreed, as they were office at their Meetings in <hi>Kent,</hi>
+wherein they all agreed to meet to<g ref="char:EOLhyphen"/>gether many times, and ſaid nothings
+Truly, if this dumb ſpirit had alwayes been among them, it had been happy for
+many thouſand ſouls in this Nation, who are now miſerably deluded with
+their fair words.</p>
+            <pb n="41" facs="tcp:118625:25"/>
+            <p>Eighthly, I ſhall further prove, in oppoſition to another
+Errour of theirs, That <hi>Chriſt</hi> had, and yet hath, another Body
+beſides his Church: And my firſt Argument is this, <hi>viz.</hi> If
+<hi>Christ</hi> had a Body that was broken for his Church, then he had a Body
+be<g ref="char:EOLhyphen"/>ſides the Church: But he had a Body that was broken for his Church;
+<hi>Ergo.</hi>
+            </p>
+            <p>The <hi>major</hi> is unqueſtionable; or elſe
+<hi>Chriſt</hi> gave the <hi>Church</hi> to be broken for the
+<hi>Church,</hi> if he had no Body beſides the <hi>Church;</hi> which is
+abſurd.</p>
+            <p>The <hi>minor</hi> is proved from <hi>Matth.</hi> 26.26.
+<hi>Luke</hi> 22.19. where <hi>Chriſt</hi> ſaith of his Body, that <hi>it
+was broken for them.</hi> By this you may ſee, theſe men either cannot or
+will not diſtinguiſh between the Body of <hi>Chriſt,</hi> which is
+glorified in the Heavens, and the <hi>Church</hi> of <hi>Chriſt,</hi> which
+is his Myſtical Body upon Earth, and who (if they continue faithful) ſhall
+have <hi>their vile bodies made like unto his glorious body;</hi> according to
+that of the Apoſtle, <hi>Phil.</hi> 3.21.</p>
+            <p>Thus, Reader, thou haſt an account of a ſew of thoſe many
+vain Errours that are profeſt by this ge<g ref="char:EOLhyphen"/>neration of men, who go up and down
+to ſubvert whole houſes, and congregations, and to pervert the right and
+ſtraight wayes of the Lord. But I hope the Lord will put a ſtop to theſe
+mens careers, that they may proceed no further, <hi>that their folly may be
+made manifeſt unto all,</hi> that every one may take heed, that he be not led
+away wit the errour of the wic<g ref="char:EOLhyphen"/>ked, and fall from his own
+ſtedfaſtneſs.</p>
+            <p>I ſhall now proceed to ſhew the Reader, that theſe conceits,
+though they are newly riſen among us, yet they were ſuch wherewith the
+<hi>Churches</hi> of <hi>Chriſt</hi> have been peſter'd, even in the
+Primitive Times; and that <pb n="42" facs="tcp:118625:26"/>not onely in the dayes of the
+Apoſtles, but in the A<g ref="char:EOLhyphen"/>ges following, wherein men did riſe up, and ſay,
+They were ſent of God; and afterwards grew into ſuch Blaſphemous
+Opinions, as theſe men are now fallen into; ſome ſaying, <hi>They are the
+Eternal Judges of the World;</hi> others ſaying, <hi>The Day of Judgement is
+paſt;</hi> O<g ref="char:EOLhyphen"/>thers ſaying, <hi>They have Divine Revelations;</hi> others
+ſay<g ref="char:EOLhyphen"/>ing, <hi>They are Chriſts;</hi> and, <hi>That they are the Way, the
+Truth, and the Life,</hi> &amp;c.</p>
+            <p>And that theſe men do agree with moſt of the He<g ref="char:EOLhyphen"/>reticks both
+Ancient and Modern, I ſhall mention ſome few among the reſt.</p>
+            <p>As firſt, they have affinity with <hi>Hymeneus</hi> and
+<hi>Phi<g ref="char:EOLhyphen"/>letus,</hi> who ſaid, That <hi>the Reſurrection was paſt
+already,</hi> 1 Tim. 2.18. in that they (as I have already ſhewn) ſay,
+<hi>The Day of Judgement is paſt already.</hi>
+            </p>
+            <p>Secondly, they have affinity with the <hi>Gnoſtici,</hi> which
+ſaid, <hi>They knew all things:</hi> See <hi>Epiphan. Haereſ.</hi> 26. So
+ſay theſe men: and thereupon one of them, name<g ref="char:EOLhyphen"/>ly, <hi>Farnworth,</hi>
+being asked, If he knew what two men ſpake one to another, being apart from
+them? he an<g ref="char:EOLhyphen"/>ſwered, <hi>That though he did know, yet he was not bound to
+anſwer the queſtion, becauſe</hi> (ſaith he) <hi>it is an unbeliever
+that, asketh it.</hi> Again, they agree with the fore-cited He<g ref="char:EOLhyphen"/>reticks,
+inaſmuch as they taught, <hi>That Chriſt did not take fleſh really, but
+in a figure;</hi> ſo ſay theſe; for one of them being asked this
+queſtion, anſwers, That <hi>Chriſt was but a figure:</hi> See <hi>Sauls
+Errand to Damaſcus,</hi> pag. 54.</p>
+            <p>Thirdly, they have affinity with the <hi>Manichees,</hi> whoſe
+Ring-leader <hi>Manes,</hi> call'd himſelf, <hi>The Com<g ref="char:EOLhyphen"/>forter,</hi> and
+ſaid, <hi>He was Chriſt, Euſeb. lib.</hi> 7. <hi>cap.</hi> 30. So do
+ſome of their Teachers, ſaying, <hi>They are the Way, Truth, and
+Life.</hi>
+            </p>
+            <pb n="43" facs="tcp:118625:26"/>
+            <p>Fourthly, they have affinity with the great Here<g ref="char:EOLhyphen"/>tick
+<hi>Seleucus,</hi> who denied the Humanity of <hi>Chriſt to be in Heaven, and
+Water-baptiſm:</hi> He lived in the time of <hi>Theodoſius Magnus.</hi> See
+<hi>Auguſt. lib. de Haereſ.</hi> Both which Errours are maintained by the
+Quakers, though they are repugnant to holy Scriptures.</p>
+            <p>Fifthly, they have affinity with the Papiſts, in the great
+Maſter-veins of Popery: As 1. the Papiſts do introduce all their vain
+conceits by this Maxime, <hi>That the Church cannot Erre:</hi> and from thence
+it is, that the Quakers do uſher in all their Dreams, <hi>viz. That they are
+perfect, and cannot erre.</hi> 2. The Papiſts do make the writings of their
+General Councels of equal Au<g ref="char:EOLhyphen"/>thority with holy Scripture: So do the Quakers
+make their pernicious Pamphlets. And at this they exceed the Papiſts; for the
+Papiſt will not ſay, That none of their Prieſts have erred; neither will
+they ſay, That the Writings of any particular man (except the Pope) is
+Infallible: but theſe Quakers ſay, That <hi>their Writings are of equal
+Authority with hely Scriptures,</hi> al<g ref="char:EOLhyphen"/>though they are the private conceptions
+of either par<g ref="char:EOLhyphen"/>ticular men or womens brains. 3. They agree with the Papiſt
+Prieſts, in that they would make the outſide of their converſations, an
+argument to demonſtrate the truth of their Apoſtolical ſending. In like
+manner (as I have formerly ſaid) <hi>James Nayler</hi> and <hi>Boroughs,</hi>
+and divers others of their falſe Apoſtles, be<g ref="char:EOLhyphen"/>ing asked, How they could
+prove they were ſent of God? anſwered, <hi>That their lives did make it
+manifeſt, be<g ref="char:EOLhyphen"/>cauſe they denied themſelves in point of Apparel,</hi>
+&amp;c. By this it appears, that the Quakers are compounded with moſt of the
+groſſeſt Errours that the <hi>Church of</hi> old were incumbred
+withall.</p>
+            <pb n="44" facs="tcp:118625:27"/>
+            <p>Sixthly, and laſtly, they do in many of their fore-mentioned
+Errours, agree with their lorefathers the Familiſts, who were great
+perverters of the right wayes of the Lord in the dayes of <hi>Luther,</hi> and
+<hi>Cal<g ref="char:EOLhyphen"/>vin,</hi> eſpecially in the <hi>Netherlands,</hi> and many places in
+<hi>Germany;</hi> as theſe are in our dayes (to our grief we may ſpeak it)
+in many places in <hi>England.</hi>
+            </p>
+            <div type="conclusion">
+               <head>
+                  <hi>The</hi> CONCLUSION.</head>
+               <p>I ſhall now conclude with a word or two of Cau<g ref="char:EOLhyphen"/>tion: and that
+firſt, That every one would compare what I have writ with holy Scripture, and
+then judge, whether I have ſaid any thing of theſe men, that is either
+harſh or unſavoury, ſave what the harſhneſs and unſavourineſs of
+their Opinions and Practiſes call for: and then, I hope, none will think
+amiſs of me for calling them Lyers, Deceivers, Blaſphemers,
+<hi>&amp;c.</hi> if they ſhall ſinde that I have prove them ſuch, both by
+Scripture, and Reaſon, and their own Say<g ref="char:EOLhyphen"/>ings and Writings. I do confeſs
+that it is very common among men, to call thoſe that differ from them in
+Opinion, Lyers, and Deceivers, <hi>&amp;c.</hi> though they are not able to
+prove them ſo: But though this be an evil, to call that an Errour or
+Blaſphemy that one cannot prove to be ſo; yet this doth not hinder, but
+that I may lawfully call that an Errour and Blaſphemy which the Scriptures
+call ſo in expreſneſs of terms: As for inſtance, The Scriptures ſay,
+<hi>He that denieth Chriſt come in the fleſh, is Antichriſt:</hi> Now
+though I may not call a man Antichriſtian, that differs from me in ſome
+circumſtances and diſputable Points of Doctrine; yet he that ſhall ſay,
+<hi>He is equal with Chriſt;</hi> or that ſhall ſay of himſelf, That
+<hi>he is the Chriſt, The Comforter; The Way, the Truth, and the Life; 
+<pb n="45" facs="tcp:118625:27"/>and the Eternal Judge of the World,</hi> as theſe men
+have ſaid of themſelves; ſurely ſuch men may be call'd Deceivers,
+Lyers, and Blaſphemers, without breaking the Law of Love and Charity.</p>
+               <p>But if it ſhall be doubted, whether the things I charge them
+with be true or no; let me tell thee, that all that I have writ concerning
+them, are either ſuch things as have fallen from their own Mouthes before
+hundreds of witneſſes; or elſe ſuch things as have been faithfully
+collected out of their own Writings: and therefore let me caution thee, whoever
+thou art, to reade their Books, eſpecially thoſe places to which I have
+referred thee, before thou judge I have wrong<g ref="char:EOLhyphen"/>ed them. This I am ſure thou
+muſt do, before thou canſt judge righteous Judgement in the caſe: And if
+thou doeſt but take pains to inform thy ſelf, thou wilt finde, That the
+Erorrs I charge them with, are either ſuch as themſelves being formerly
+charged with could not deny, as appears by their printed anſwers to them; or
+elſe they are ſuch as they have in words at length poſitively afferted,
+as will be found among their Writings, in the books and pages I have cited.</p>
+               <p>I confeſs, many things have been reported to me, concerning
+the evil manners of ſome of the Teachers of this way, and of the badneſs of
+their lives: and though doubtleſs this hath not been without ground, yet I do
+forbear to mention any thing of that kinde; Firſt, becauſe the
+miſcarriage of ſome particular per<g ref="char:EOLhyphen"/>ſons, doth not prove the whole to be
+guilty; unleſs it be in matters of Doctrine, which they all receive and own:
+And ſecondly, becauſe the Errours of mens lives and converſations, do not
+infallibly prove the Errours of their Doctrine; inaſmuch as ſome men 
+<pb n="46" facs="tcp:118625:28"/>do walk contrary to what they make profeſſion of: yet
+let me tell thee one thing by the way, <hi>viz.</hi> That though Errour in life
+doth not prove Errour in judg<g ref="char:EOLhyphen"/>ment; yet Errour in converſation doth prove
+Errour in converſation; my meaning is, If the queſtion be about Errors in
+Doctrine, then the goodneſs or badneſs of the lives of them that profeſs
+it, doth no way reſolve the queſtion certainly, though it may probably; but
+if the queſtion be about Perfection in life, which theſe Quakers ſay they
+have attained to; then let me tell thee, That any Errour in the lives of
+ſuch, proves in<g ref="char:EOLhyphen"/>fallibly, that they are not ſuch as they profeſs to be,
+<hi>viz.</hi> Perfect men. My laſt reaſon why I do not inſiſt upon the
+particular evils that relate to the converſa<g ref="char:EOLhyphen"/>tion of theſe men, is,
+Becauſe I know that the proof thereof is not ſo eaſie for the Reader to
+attain, be<g ref="char:EOLhyphen"/>cauſe poſſibly many of them may live hundreds of miles from
+the places where this may come; and al<g ref="char:EOLhyphen"/>ſo, becauſe that they will not
+believe any thing that is witneſſed againſt any of their way, but
+ſhuttle it off with ſaying, That <hi>Chriſt and his Apoſtle were evil
+ſpoken of, and perſecuted,</hi> &amp;c. But let me tell thee, Reader,
+whoever thou art, That this is a vain plea: for what though Chriſt and his
+Servants ſhall be evil ſpoken of without cauſe; yet this proves not, that
+therefore every one that is evil-ſpoken of, is Chriſts Servant; for
+thouſands there are, that give juſt cauſe to be evil<g ref="char:EOLhyphen"/>ſpoke of daily;
+and may not theſe men excuſe them<g ref="char:EOLhyphen"/>ſelves, by ſaying, <hi>Chriſt was
+evil-ſpoken of?</hi> and do not the Papiſts Prieſts (many of them) at
+this day excuſe their wicked and beaſtly practiſes (with many of their
+Nuns, who have vowed Chaſtity) by ſaying, That <hi>Chriſt was
+evil-ſpoken of, and ſo are they for being his ſer<g ref="char:EOLhyphen"/>vants?</hi> 
+                  <pb n="47" facs="tcp:118625:28"/>when indeed there is cauſe enough to ſpeak evil of
+them, though there was no cauſe to ſpeak evil of Chriſt. In like manner
+do theſe Quakers ſhuttle off all evil that is objected againſt any of
+them, by ſaying, <hi>They are belyed, and ſuffer falſly;</hi> therefore
+to prevent any thing of this kinde, I charge them with nothing, but what is
+either daily preached among them, or elſe what may be found in their printed
+Books.</p>
+               <p>I have one Caution more, that I ſhall give to my Antagoniſts
+(if any of them ſhall undertake to write any thing in anſwer hereunto) and
+that is, That they lay aſide all ſuch un-man-like reaſonings, wherewith
+many of their Books are ſtuffed, in telling their Ad<g ref="char:EOLhyphen"/>verſaries, <hi>They
+are Sots, and Fools, and Blinde;</hi> and, <hi>That they are of the Devil, and
+in Darkneſs, and ſpeak the firſt wiſdome from Beneath;</hi> and,
+<hi>That they are Lyers,</hi> &amp;c. till they have firſt proved what hath
+been writ to be falſe: and remember how fooliſh a thing it was coun<g ref="char:EOLhyphen"/>ted, to
+ſay, <hi>Bellarmine lyed,</hi> before he was proved a Lyer: And therefore let
+what I have ſpoken, be an<g ref="char:EOLhyphen"/>ſwered with words of truth and ſoberneſs; and
+if by the words of truth it ſhall be made manifeſt, that I have ſpoken
+any untruth, I ſhall with the like readi<g ref="char:EOLhyphen"/>neſs of minde make a publick
+acknowledgement of it to the world. And I would alſo intreat, That there may
+be no carping about words, thereby to avoid the force of any argument or
+queſtion that is propoſed, but that every thing (whether Words or
+Arguments) be or<g ref="char:EOLhyphen"/>derly and directly ſpoken to; that ſo the Readers on both
+ſides may judge, on which ſide the Truth lyeth, as I queſtion not but
+they will eaſily do.</p>
+               <p>Thus having diſcharged my conſcience towards 
+<pb n="48" facs="tcp:118625:29"/>God, in the publiſhing theſe Lines out of love to the
+world in general, but more eſpecially out of love to my Brethren, whoſe
+feet (many of them) are taken in this Snare, not knowing that they are for
+their lives: And if God ſhall bleſs theſe Lines, either to the
+preven<g ref="char:EOLhyphen"/>tion of the falling of them, who (through grace) yet ſtand, or to the
+reſtoring of thoſe that are fallen; or if otherwiſe I have miſtaken any
+thing, God will bring this good of my miſtake (if in caſe any be found) as
+to raiſe up, and provoke ſome one or other to make my miſtake manifeſt.
+If by theſe Lines I obtain any of theſe ends, which I do not much
+que<g ref="char:EOLhyphen"/>ſtion; then ſure I am, that I have not run in vain, but ſhall give
+God the glory, while I am able to ſubſcribe my ſelf</p>
+               <closer>
+                  <signed>Jeremiah Ives.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="49" facs="tcp:118625:29"/>
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>AFter I ſent my book to the Preſs, I had another Conference
+with <hi>James Nayler,</hi> on the 22 of <hi>June,</hi> 1656. at the
+<hi>Bull</hi> and <hi>Mouth</hi> neer <hi>Al<g ref="char:EOLhyphen"/>derſgate;</hi> which was as
+followeth:</p>
+            <p>The people being met, and <hi>James Nayler</hi> ſtanding up to
+ſpeak, I did deſire that <hi>James Nayler</hi> would prove that which he
+had ſo often afferted, <hi>viz.</hi> That every man in the world had the
+Light within him, ſpoken of in <hi>John</hi> 1. To this <hi>James Nayler</hi>
+replyed, ſaying, That <hi>Chriſt did inlighten every man that came into the
+world, ac<g ref="char:EOLhyphen"/>cording to</hi> Joh. 1. To this I anſwered, That I did not oppoſe
+the ſaying of that Text, but his ſaying, which was, That every one in the
+world had the Light with<g ref="char:EOLhyphen"/>in him, Spoke of in that Text. To this <hi>James
+Nayler</hi> replies, ſaying, <hi>He would have me bring him a man in that
+place, that would ſay the Light of Chriſt was not in him.</hi>
+            </p>
+            <p>To this I did anſwer, Firſt, that every man in the world was
+not in that place; and therefore if every one in that place ſhould ſay,
+This Light was in them, it did not follow, that therefore that Light ſpoken
+of <hi>Joh.</hi> 1. was in every one in the world.</p>
+            <pb n="50" facs="tcp:118625:30"/>
+            <p>But ſecondly, I told him, That if every one in that place would
+ſay, they had this Light in them; it did
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as I fear many of this
+generation do: I did therefore bid <hi>James Nayler</hi> to give me a Scripture
+to prove, that every one had the Light within them, ſpoken of <hi>Joh.</hi>
+1. He anſwers, <hi>That it was proved already in every mans Con<g ref="char:EOLhyphen"/>ſcience:
+but</hi> (ſaith he) <hi>it is not evidenced; for if it were, there would need
+no Teaching.</hi> To this I replyed, that if it were proved to every mans
+conſcience, then it was EVIDENCED; for proof and evidence to the
+conſcience, was one and the ſame: which he denied. I further told him, That
+the conſcience might be miſ<g ref="char:EOLhyphen"/>guided; and therefore it did not follow, that a
+thing is therefore true, becauſe a man in conſcience thinks it ſo: I
+therefore, as before, call'd for a plain Text for proof of what he ſaid. He
+thereupon brings <hi>Eph.</hi> 5.13. 2 <hi>Cor.</hi> 4.6. I told him, Neither
+of theſe Scri<g ref="char:EOLhyphen"/>ptures did prove, That every man in the world had the Light
+within him, ſpoken of <hi>Joh.</hi> 1. and therefore if he had any Scripture
+that ſaid it, he would do well to produce it; and if not, to forbear
+preaching any ſuch thing, that he could ſhew no Scripture for. Here<g ref="char:EOLhyphen"/>upon
+<hi>James</hi> aſſumes an Apoſtolical Authority, and ſaith, That
+<hi>though there were no Scripture that ſaid what he ſaid, yet it might be
+true: for</hi> (ſaith he) <hi>the Apoſtles ſaid many things, that THEY
+had no Scripture for.</hi> To this I replyed, That he was no Apoſtle; and
+therefore, as before, call'd for a proof of this notion (that they preach in
+moſt places where they come) <hi>viz.</hi> That e<g ref="char:EOLhyphen"/>veryone hath this Light
+within him. He hereupon demanded, <hi>How Chriſt was the Light that lighteth
+every <pb n="51" facs="tcp:118625:30"/>one that comes into the world, if this Light was not
+in every one.</hi> To this I did anſwer, (as formerly) That God and Chriſt
+were uſually ſaid in Scripture-dialect, to do things for the world, when
+they did uſe a means ſufficient for the doing of it; and ſo Chriſt is
+ſaid to <hi>take away the ſin of the world;</hi> and to be <hi>the Saviour
+of the world;</hi> and <hi>the Saviour of ALL men;</hi> though all men ſhall
+not be ſaved: inaſmuch as he hath by his dying for the world, put all men
+into a ſalvable capa<g ref="char:EOLhyphen"/>city: In like manner he lighteth every one that comes
+into the world, inaſmuch as he uſeth means for the bringing the world to
+the Light; though all have not this Light WITHIN them. Again, I told <hi>James
+Nayler,</hi> That this Light in <hi>Joh.</hi> 1. was Chriſt, who is <hi>the
+Light of the world;</hi> and if every one had this Light in them, then every
+one had Chriſt in them: But I told him, that could not be, becauſe we reade
+<hi>Eph.</hi> 2. of <hi>ſome that were WITHOUT Chriſt.</hi>
+            </p>
+            <p>I further told him, That the Scriptures told us of ſome that
+<hi>had NO Light in them,</hi> Joh. 11.10. Iſa. 8.20. He anſwered, That
+<hi>poſsibly God had put out their Light, becauſe they did not walk
+according to it.</hi> To this I did re<g ref="char:EOLhyphen"/>ply, That then he did contradict
+himſelf; for if ſome had no Light in them, becauſe God had put it out,
+How could he ſay, <hi>EVERY ONE HATH this Light IN him?</hi> But further, the
+Text in <hi>Joh.</hi> 11. ſaith, that <hi>If A MAN walks in the dark, he
+ſtumbles, BECAUSE there is NO Light IN him:</hi> Now I told <hi>James
+Nayler,</hi> That thoſe that he ſayes <hi>he turns from darkneſs,</hi>
+are ſuch as WALK in darkneſs, by their own confeſſion; and if ſo,
+then whether it be not better to ſay with the Texts <hi>There is no light in
+him;</hi> then to ſay contrary to the Text, with the Quakers, that when men
+walk in darkneſs, <hi>The light of Chriſt is in them?</hi>
+            </p>
+            <pb n="52" facs="tcp:118625:31"/>
+            <p>Hereupon <hi>James Nayler</hi> asked, <hi>If the heathen had not a
+Light?</hi> I told him, firſt, that they might have a light among them, that
+they might not receive within them. And ſecondly, that though they had a
+Light in them, yet this did not prove, that the Light which they had, was the
+Light ſpoken of <hi>Joh.</hi> 1. which Light is <hi>Chriſt Jeſus;</hi>
+which is the thing they affirm. I there<g ref="char:EOLhyphen"/>fore did intreat him, to reconcile
+their Doctrine with <hi>Joh.</hi> 11.10. Their Doctrine is, that <hi>Every one
+hath the Light of Chriſt within him: John</hi> ſaith, <hi>If a man walk in
+the dark, he ſtumbleth, becauſe there is NO Light IN him.</hi> To this
+<hi>James Nayler</hi> replyed, that <hi>there were two ſeeds in man; and
+there was an old man and a new man; and a man born after the fleſh, and a man
+born after the Spirit. ſo that</hi> (ſaith he) <hi>he that is the old man,
+and born after the fleſh, he hath no Light in him.</hi> I then asked him, How
+every one that comes into the world, hath the light of <hi>Chriſt</hi> in
+him, if he that is born after the fleſh have not the Light within him? for
+(as I then told him) no man comes into the world, but he is born after the
+fleſh. He anſwers, that <hi>I ſpake like a Sot, in ſaying, that very
+man that came into the world was born after the fleſh: for</hi> (ſaith he)
+<hi>Chriſt was not born after the fleſh.</hi> To this I did reply,
+ſaying, that I had heard it reported, that the Quakers ſhould deny
+<hi>Chriſt to be born according to the fleſh,</hi> but I never heard it
+from any of their mouths before: which ſaying, I told <hi>Ja: Nayler,</hi>
+was contary to theſe expreſs Scriptures, <hi>Rom.</hi> 1.3. where it is
+ſaid, that <hi>Chriſt was made of the ſeed of David, according to the
+FLESH:</hi> and <hi>Rom.</hi> 9.5. <hi>Of whom as concerning the FLESH Chriſt
+came, who is over all, God bleſſed for over:</hi> and <hi>Gal.</hi> 4.4.
+<hi>Chriſt was MADE of a woman,</hi> &amp;c. and <hi>Acts</hi> 2.30.
+<hi>James Nayler</hi> ſeeing this was a broad<g ref="char:EOLhyphen"/>fac'd <pb n="53" facs="tcp:118625:31"/>piece
+of Hereſie, was willing to cover it with the Fig-leaf of this diſtinction,
+<hi>viz. That it was one thing for Chriſt to be born after the fleſh, and
+another thing to be born according to the fleſh.</hi> To this I replyed, that
+the Scriptures made no ſuch diſtinction: for when <hi>Moſes did all
+things ACCORDING to the patern ſhewed him in the Mount,</hi> Heb. 8.5. do but
+compare it with the command in <hi>Exod.</hi> 5.40. and you will finde, That
+God bids <hi>Moſes look that he made things AFTER the fa<g ref="char:EOLhyphen"/>ſhion ſhewed him
+in the Mount:</hi> Now may not a man as well ſay, that <hi>Moſes</hi> did
+not do things after the pa<g ref="char:EOLhyphen"/>tern, becauſe the Scriptures ſaith, <hi>He did
+it according to the patern;</hi> as this man may ſay, <hi>Chriſt was not
+born after the fleſh,</hi> becauſe the Scriptures ſaith, <hi>He was born
+according to the fleſh?</hi> Therefore let me ask one que<g ref="char:EOLhyphen"/>ſtion, Whether a
+man may not as well ſay, That <hi>Moſes</hi> did not all things after the
+patern, becauſe the Scriptures ſay, He did all things according to the
+pa<g ref="char:EOLhyphen"/>tern; as ſay, That Chriſt was not born after the fleſh, becauſe the
+Scriptures ſaith, He was born according to the fleſh? But further, That you
+may ſee that there is no place for this diſtinction about the caſe in
+hand, do but take notice, That <hi>Beza</hi> renders the Text in <hi>Gal.</hi>
+4.29. where it is ſaid, That <hi>Abraham had a ſon born AFTER the
+fleſh,</hi> &amp;c. <hi>Sed quemadmodum tunc is qui SECUNDUM CARNEM,</hi>
+word for word with <hi>Rom.</hi> 1.3. I mean by <hi>word for word,</hi> ſo
+far as concerns the caſe in hand, <hi>viz.</hi> That it is all one to deny
+<hi>Chriſt</hi> to be born after the fleſh, as it is to deny him to be born
+according to the fleſh: And therefore where it is ſaid, That <hi>Chriſt
+was born according to the fleſh,</hi> in that place of the <hi>Romans</hi>
+before-cited; <hi>Beza</hi> likewiſe ren<g ref="char:EOLhyphen"/>ders it, <hi>De filio ſuo facto ex
+ſemine Davidis SECUN<g ref="char:EOLhyphen"/>DUM <pb n="54" facs="tcp:118625:32"/>CARNEM:</hi> So that theſe men
+you ſee are forced to take Sanctuary at any vain diſtinction, that may keep
+the world from ſeeing into the bottome of their Deſignes; which is indeed
+to deny <hi>Chriſt</hi> to be made fleſh, or to be come in the fleſh: For
+is it not the ſame to ſay, That he was not born after the fleſh?</p>
+            <p>This was the ſum of the laſt Conference, with ſome
+additional Anſwers, that I had not then li<g ref="char:EOLhyphen"/>berty (by reaſon of the
+confuſion that was among them) to give in at that time. And leſt any
+ſhould think that theſe words are ſuch as might fall from him in haſte,
+or unadviſedly, about his denying <hi>Chriſts</hi> being born after the
+fleſh, and therefore I ought not to inſiſt ſo much upon them: Let me
+tell thee, Reader, whoever thou art, that for more ſure<g ref="char:EOLhyphen"/>ty, when I was going
+away, I did ask the queſtion again, Whether he did believe <hi>Chriſt</hi>
+was born after the fleſh? or, Whether he did deny it? He anſwer<g ref="char:EOLhyphen"/>ed, That
+<hi>he did deny Chriſt was ever born after the fleſh;</hi> and ſo did
+another of their Proſelytes the ſame day in the afternoon, before hundreds
+of people, at a private Meeting in <hi>Beech-lane;</hi> who when the Ser<g ref="char:EOLhyphen"/>mon
+was ended, ſtood up, and oppoſed what was then and there delivered; and
+withall did ſay, That <hi>he did deny that Chriſt was born after the
+fleſh.</hi> Now what is this leſs, then to deny <hi>Chriſt</hi> come in
+the fleſh? which is an Antichriſtian Doctrine, 1 <hi>Joh.</hi> 4.3. And the
+ſame <hi>John</hi> ſaith, that <hi>Whoſoever ſhall deny Chriſt come
+in the fleſh, is a deceiver,</hi> 2 <hi>Joh.</hi> 7. For many deceivers are
+entred into this world, which confeſs not that Jeſus Chriſt is come in
+the fleſh: <pb n="55" facs="tcp:118625:32"/>
+               <hi>He is a Deceiver, and an
+Antichriſt;</hi> and if theſe men are not ſuch Deceivers, I know not what
+deceit is: Therefore let every one in the fear of God try the Spirits of
+theſe men, and ſee if this which hath fallen from their mouthes, doth not
+prove them to be what I have ſaid of them; and the Lord give you
+underſtanding in all things.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
